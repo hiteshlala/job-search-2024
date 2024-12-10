@@ -1,0 +1,86 @@
+2024/11/20
+
+https://www.capitalonecareers.com/job/remote/senior-software-engineer-full-stack-capital-one-software-remote/1732/70491147024
+
+R198635
+Posted 09/27/2024
+Senior Software Engineer, Full Stack - Capital One Software (Remote)
+Remote, USA | McLean, Virginia
+Pin job
+Apply
+
+Category
+Engineering
+
+Experience
+Principal Associate
+
+Primary Address
+Remote, USA
+Overview
+Locations: US Remote, United States of America
+Senior Software Engineer, Full Stack - Capital One Software (Remote)
+Capital One Software is seeking a  Senior Software Engineer  who is passionate about marrying innovation with emerging technologies. 
+
+We are a new enterprise B2B software business focused on providing cloud and data management solutions to companies operating in the cloud.  This is Capital One’s first foray into the enterprise software market and comes after years spent building our own in-house cloud and data management tools that enable us to operate at scale in the cloud. As a Capital One Software Engineer, you’ll have the opportunity to build meaningful software that enables our customers to manage their data securely and efficiently at any scale.  Additionally as a Capital One Engineer you get to collaborate with some of the best in this business. 
+
+What You’ll Do:
+
+Write high quality code, perform code reviews
+
+Collaborate across agile teams to deliver robust cloud-based solutions that drive powerful experiences for our customers
+
+Participate in design discussions
+
+Research and propose innovative features to product managers
+
+Basic Qualifications: 
+
+Bachelor’s Degree
+
+At least 3 years of experience in software engineering (Internship experience does not apply)
+
+Preferred Qualifications:
+
+Master's Degree
+
+4+ years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, or GoLang
+
+1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+
+2+ years of experience in Agile practices.
+
+1+ years of experience with software development in Rust, C or C++ 
+
+
+At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+Remote (Regardless of Location): $140,000 - $159,800 for Principal Associate Senior Software Engineer; $140,000 $159,800 for Senior Software Engineer
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at theCapital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.
+No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+
+
+=========================================================================================
+
+2024/11/20
+Applied
+  - had to re-enter stuff on their form (prefilled from resume)
+  - had to create an account on their platform - already had one from the last time I applied
+  - overall the process was painless
+
+
+

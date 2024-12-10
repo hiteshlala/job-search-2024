@@ -1,0 +1,161 @@
+2024/11/29
+
+https://job-boards.greenhouse.io/reddit/jobs/6398729
+https://redditinc.com/careers
+
+Banner
+Reddit Logo
+Back to jobs
+Senior Frontend Software Engineer, Poster Experience
+Remote - United States
+Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 97M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+The Core Experience organization's mission is to empower people to participate in global conversations through communities.
+
+Poster Experience specifically focuses on the user journey in creating posts at Reddit, which is the main source of user content for the product. We aim to make it easier, faster, and smarter to create and participate in conversations, and we drive several core product metrics for the entire Reddit ecosystem.
+
+This is a high-impact role where you will own projects from ideation to production, working with our super-talented cross-functional team.
+
+You'll closely collaborate with product and design teams, and be responsible for the engineering architecture and execution of key product features.
+
+What You’ll Do:
+Design, build, and ship Web frontend code, experiments and products for millions of users.
+Work cross-functionally, collaborate and partner with product, design, and other engineering counterparts to execute on product and business strategy and build novel products and features that our users will love.
+Communicate effectively, within the team and across disciplines. Work closely with product managers and designers to craft compelling user experiences.
+Contribute meaningfully to our team’s strategy. We give everyone a seat at the table and encourage active participation in planning our future. Don’t just come along for the ride.
+Participate in product reviews and team meetings, providing technical insight. Help scope, estimate, and prioritize between conflicting needs.
+Foster a healthy engineering culture and collaborate with other engineers.
+
+Required Qualifications:
+Minimum 5+ years of post-internship, full-time, hands-on, professional software development experience developing software in one or more front end focused programming languages; Javascript, Typescript, ES6.
+Experience with one or more front-end web frameworks such as LIT, Polymer, React, Vue, or Angular with experience with CSS.
+Experienced with GraphQL, REST, HTTP, Thrift basics, and the ability to design and implement maintainable APIs is a plus.
+Experienced with distributed caching layers, and distributed large scale data storage systems.
+Strong organizational skills, the ability to prioritize tasks and to deliver projects on schedule.
+BS degree in Computer Science, a similar technical field of study or equivalent practical experience.
+Entrepreneurial spirit. You are self-directed, innovative, and biased towards action in fast-paced environments. You love to build new things and thrive in ambiguity and even failure.
+Excellent communication skills. You partner effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences.
+
+Please note: this role is 100% remote, and open only to applicants currently located in and authorized to work in the United States and select Canadian provinces. 
+
+We have Reddit offices in Toronto, Los Angeles, San Francisco, Chicago and NYC. If you happen to be located close to one of these offices, you're very welcome to work onsite in whatever hybrid or onsite schedule you choose!
+
+Benefits:
+
+Comprehensive Healthcare Benefits
+401k Matching
+Workspace benefits for your home office
+Personal & Professional development funds
+Family Planning Support
+Flexible Vacation (please use them!) & Reddit Global Wellness Days
+4+ months paid Parental Leave
+Paid Volunteer time off
+ 
+
+Pay Transparency:
+
+This job posting may span more than one career level.
+
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+
+The base pay range for this position is:
+
+$190,800 - $267,100 USD
+
+Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com.
+
+Apply for this job
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+How did you hear about this job?*
+Are you currently authorized to work in the U.S.?*
+Select...
+
+Do you now, or will you in the future, require immigration sponsorship to work at Reddit?*
+Select...
+
+What % of your experience is focused on frontend vs backend development?*
+Do you have experience using Javascript, Typescript and/or ES6 in production?*
+What specific experience do you have building consumer facing products/features?*
+By selecting "I agree," I understand that the information I have provided as part of this job application will be processed in accordance with Reddit's Candidate Privacy Policy. *
+Select...
+
+Reddit's Candidate Privacy Policy
+
+Reddit U.S. Equal Employment Information
+Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. To bring community and belonging to everyone in the world, Reddit’s employees must represent communities and redditors on our platform.
+
+Our vision at Reddit is to have a workforce representative of people with different perspectives and experiences, including but not limited to, gender, race and ethnicity, sexual orientation, age, national origin, religion, and political views.
+
+We invite you to self-identify across the identities below so we can better understand our talent pools and assess our effectiveness in attracting and recruiting people to Reddit from all backgrounds.
+
+Answering these questions will not impact your application, nor will this information be shared with anyone making a hiring decision. For more information, please refer to our statement here.
+
+What gender identity do you most closely identify with? *
+Select...
+
+Are you a person of transgender experience? *
+Select...
+
+What sexual orientation do you most closely identify with? *
+Select...
+
+Do you live with a disability (as outlined by the ADA)?*
+Select...
+
+Are you a veteran/have you served in the military? *
+Select...
+
+Please select up to 2 ethnicities that you most closely identify with.*
+Select...
+
+Powered by
+
+Read our Privacy Policy
+
+
+=========================================================================================
+What specific experience do you have building consumer facing products/features?*
+Almost all of my work at Medallia, Nurx, and Leica involved consumer facing products.  
+
+At Medallia most of the features were used primarily to manage users, organizations, and feedback.  At Nurx  I built features to assist users finding the right product for their needs by collecting information through guided surveys.  At Leica I built point cloud viewers that allowed end users to explore that data as well as annotate specific 3D views and sharing them with other uses.
+
+=========================================================================================
+2024/11/29
+Hi Hitesh, 
+
+We want to thank you for your interest in Reddit.  We have received your application for our Senior Frontend Software Engineer, Poster Experience role and are working as fast as we can to review it. If our hiring team sees a match to what they’re looking for, we’ll be in touch about next steps. 
+
+
+In the meantime, feel free to learn more about us!
+
+Check out what makes Reddit different from social media sites
+Get to know our company values
+Learn about how our engineers bring community and belonging to the world 
+See what our team is up to on our Blog and LinkedIn
+Read about how we support our “Snoos” through our Life at Reddit page
+Reflect back on memorable times with our 2023 recap
+We recognize that applying for a new job takes a lot of time, and so we take extra care to give every application we receive the attention it deserves. We strive to get back to you within a few business days.
+
+Best,
+
+The Reddit Talent Acquisition Team
+
+=========================================================================================
+
+

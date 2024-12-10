@@ -1,0 +1,185 @@
+2024/12/02
+
+https://www.cortex.io/
+https://job-boards.greenhouse.io/cortex/jobs/4000463008?
+
+from https://app.welcometothejungle.com/jobs/IvtaYzya
+
+
+Back to jobs
+Senior Frontend Engineer
+Remote
+🧠 About Cortex
+
+Cortex is the internal developer portal that cuts noise for developers with paved paths to production. Companies like Adobe, Dropbox, and TripAdvisor use Cortex to catalog, score, and assign action to improve service quality and velocity, so devs can get back to work that drives the business forward. 
+
+📍Location
+
+We’re fully remote and welcome candidates from anywhere in the US! We have all-company offsites a few times a year where we fly the whole team out to meet in person, build stronger relationships, kick off important projects, and have fun!
+
+🤝 The Team
+
+We are a mighty group of ~90 passionate individuals excited about building a product that developers love. We recently raised $60M in Series C Funding this year led by Scale Ventures (with participation from Sequoia, IVP, and others) to build the Future of Developer Experience. You can read more about it here.
+
+💼 Job Summary
+
+We are seeking a Senior Frontend Engineer to join our team. As a Senior Frontend Engineer, you will be responsible for building high-performing, complex front-end features. You’ll have the opportunity to flex beyond the typical scope of a Frontend Engineer by improving our planning, development, deployment processes, and more.
+
+⚙️ Responsibilities
+
+Design, implement, maintain, and improve the user interface for our developer portal
+Collaborate with product, design, and other engineers to build new features and enhance existing ones
+Write clean, maintainable, and testable code that adheres to best practices
+Continually improve existing planning, development, and deployment processes
+Ensure our product is up to date with the latest frontend technologies
+✔️Qualifications 
+
+Bachelor's degree in Computer Science or related field, or equivalent work experience
+5+ years of professional experience in frontend engineering, with a focus on building modern and intuitive user interfaces
+Understanding of fundamental design principles around responsive and user-friendly applications
+Strong proficiency in modern frontend technologies such as React, TailwindCSS, and experience with complex single-page applications
+Excellent problem-solving and analytical skills
+Strong communication and collaboration skills
+🌴 Perks & Benefits
+
+Competitive salary and equity
+National medical, dental & vision insurance (we cover 100%!)
+Fully covered life insurance
+$400 monthly perks stipend 
+$1000 yearly Learning & Development stipend
+401k plan
+Pet Insurance
+Unlimited PTO
+Remote & flexible working hours
+Gender-neutral parental leave 
+All-Company Retreats (previously San Diego, Miami, Austin)
+✏️ Noteworthy
+
+Our job titles may span more than one career level. The base pay for this role starts between $135,000 and $200,000. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role is eligible for equity and benefits.
+
+Cortex is committed to a diverse and inclusive workplace. Cortex is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please email people@cortex.io
+
+Apply for this job
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone
+Resume/CV*
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+Website
+Are you authorized to work in the United States?*
+Select...
+
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+Select...
+
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+How would you describe your gender identity?
+Select...
+
+How would you describe your racial/ethnic background?
+Select...
+
+How would you describe your sexual orientation?
+Select...
+
+Do you identify as transgender?
+Select...
+
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+Select...
+
+Are you a veteran or active member of the United States Armed Forces?
+Select...
+
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Cortex’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Select...
+
+Are you Hispanic/Latino?
+Select...
+
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Select...
+
+Voluntary Self-Identification of Disability
+Form CC-305
+Page 1 of 1
+OMB Control Number 1250-0005
+Expires 04/30/2026
+
+Why are you being asked to complete this form?
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability?
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Disability Status
+Select...
+
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+Powered by
+
+Read our Privacy Policy
+
+=========================================================================================
+2024/12/02
+Hi Hitesh,
+
+Thanks so much for applying for the Senior Frontend Engineer role at Cortex! Our Recruiting team will review your application and will be in touch should your qualifications match our needs for the role. If you are not selected for this position, please keep an eye on our careers site as we continue to grow. 
+
+Thanks again for taking the time to apply!
+
+Regards,
+The Cortex Recruiting Team
+
+=========================================================================================

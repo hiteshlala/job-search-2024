@@ -1,0 +1,71 @@
+2024/11/29
+
+https://jobs.lever.co/workos/44f9572c-8502-4e07-9627-ed8848001d15?lever-source=Otta
+https://workos.com/?
+from welcome to the jungle
+
+
+
+WorkOS logo
+Product Engineer - Enterprise
+United States Time ZonesEngineering /Remote
+About WorkOS 🚀
+WorkOS is a developer platform that helps make apps enterprise-ready. We build tools and services for developers to help them implement features like Single Sign-On, Directory Sync, Multi-Factor Auth, and Audit Logs. We're a fully-distributed team with employees across North America time zones. We're well-funded, having raised an $80M Series B. Our fast growing customer base includes hundreds of rapidly growing SaaS companies like Webflow, Vercel, Brex, PlanetScale, Loom, and Drata.
+
+About the role 💭
+WorkOS builds tools for developers that unlock equal & accelerated access to the enterprise market. We’re growing rapidly and expanding our team of full-stack product engineers.
+
+The Enterprise team develops products that enable companies to become 'enterprise-ready,' including SSO, Directory Sync, Audit Logs, and RBAC. These products are designed to be highly flexible and pluggable, meeting the demanding needs of enterprises while unifying fragmented admin ecosystems and workflows.
+
+Our engineers are deeply committed to understanding our customers' challenges, actively seeking feedback and new perspectives to inform the products we build. We’re looking for engineers who are excited about turning complex ideas into reality, crafting elegant, user-friendly software with modern tools, and sharing our passion for simplifying the enterprise landscape.
+Responsibilities ✔️
+Design and engineer delightful developer and end-user experiences
+Develop a deep understanding of evolving products (RBAC, FGA, Audit Logs) and increase its adoption
+Develop a deep understanding of how diverse customer personas interact and integrate with our mature products (SSO, SCIM), and work to reduce friction points
+Collaborate with other product teams, solutions engineering, and our go-to-market team
+Map evolving technical risks/limitations to drive technical roadmap in collaboration with other engineering teams
+Collaborate with other product teams, solutions engineering, and our go-to-market team
+Work directly with leadership on greenfield ideas
+Help recruit and assess future engineering team members
+Qualifications 🌟
+5+ years of industry software development experience
+Experience distilling complex, fragmented problem spaces into clean, simple architectures (ex: data models, robust state management)
+Experience designing well-structured internal and external APIs that balance high scalability with an intuitive developer experience.
+Skilled in collaborating with diverse customer personas and translating their needs into well-designed and prioritized action items.
+Familiarity with working on small teams in fast-paced environments
+Intellectually curious, independently driven, and passionate about great products
+A growth mindset, high emotional intelligence, and strong communication skills
+Bonus: Experienced with our stack of TypeScript, React, and Postgres
+Bonus: Experienced in B2B SaaS, developer tools, or a related industry
+The annual US base salary falls within the range of $175,000 to $250,000. This range does not encompass the full spectrum of benefits such as equity, health insurance, vacation time, and paid parental leave. This salary range covers multiple levels of engineering roles and final compensation will be determined considering various factors, including experience, skills, and qualifications.
+
+Benefits (US Only) 💖
+At WorkOS, we offer resources that emphasize personal and familial well-being. We offer healthcare coverage for you and your family, including medical, dental, and vision. We offer parental leave, paid-time off and fully remote working arrangements.
+
+Benefits include:
+- Competitive pay
+- Substantial equity grants
+- Healthcare insurance (Medical, Dental and Vision) for you and your family
+- 401k matching
+- Wellness and fitness monthly allowances
+- PTO + paid holidays + unlimited sick leave
+- Autonomy and flexibility with remote work
+
+Equal Opportunity Employer
+WorkOS is an equal opportunity employer, committed to diversity and inclusiveness. We will consider all qualified applicants without regard to race, color, nationality, gender, gender identity or expression, sexual orientation, religion, disability or age.
+WorkOS Home Page
+
+Jobs powered byLever logo
+
+=========================================================================================
+2024/11/29
+Hi Hitesh,
+ 
+Thank you for your interest in WorkOS! We wanted to let you know we received your application for Product Engineer - Enterprise, and we are delighted that you would consider joining our team.
+ 
+Our team will review your application and will be in touch.
+ 
+Best,
+The WorkOS Team
+
+=========================================================================================

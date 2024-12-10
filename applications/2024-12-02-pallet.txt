@@ -1,0 +1,209 @@
+2024/12/02
+
+https://job-boards.greenhouse.io/pallet/jobs/4412781007?
+https://www.trypallet.com/?
+
+from https://app.welcometothejungle.com/jobs/s7AP8Xh9
+
+
+Pallet Logo
+Back to jobs
+Senior Software Engineer
+San Francisco
+WHO WE ARE
+
+Pallet is a company dedicated to disrupting the logistics industry. Located in San Francisco, CA, we've secured $21 million in funding from investors, including Bain Capital Ventures and Bessemer.
+
+Our flagship product is a Transportation Management System (TMS) and Warehouse Management System (WMS) designed to streamline business operations. We've eliminated data entry, integrated warehouse management, automated billing processes, and more. At Pallet, we provide end-to-end logistics visibility, control, and optimization. Our TMS and WMS offer the tools to enhance logistics operations, reduce costs, and improve customer satisfaction with faster and more reliable delivery times for logistic providers.
+
+Join us on our journey to transform the logistics industry and be a part of the future of business growth with Pallet.
+
+! This role has a preference for hybrid but we encourage remote candidates to apply
+
+ABOUT THE ROLE
+
+We are seeking a Senior Engineer to collaborate closely with our Head of Engineering in driving key company objectives and technical strategy. This role presents an opportunity to shape a next-generation logistics business that supports hard working Americans in a critical industry. It demands high expectations, significant autonomy, and a profound sense of responsibility. You will be tasked with:
+
+Driving multi-quarter, cross-team technical strategies and roadmaps for Pallet that align with short-term and long-term business goals.
+Spearheading critical business and technical initiatives, such as:
+Scaling key systems to meet the demands of our growing customer base, products, and engineering team (e.g., report generation, notifications, caching, permissions, financial reporting).
+Introducing customer-facing optimizations, from workflow automations to routing optimization algorithms.
+Cultivating a robust engineering culture by exemplifying excellence, mentoring teammates, and maintaining high standards for engineering practices.
+YOU HAVE
+
+5+ years of Software Engineering experience, ideally with a blend of startup and large engineering team environments.
+Proven track record of delivering impactful business outcomes through the development of new products and/or the execution of technical initiatives.
+Demonstrated examples of servant leadership, with a history of empowering and supporting engineering teams, and driving cultural improvements within engineering.
+Proficiency with Node.js, TypeScript, GraphQL, PostgreSQL, and related technologies.
+⚡Pallet, nestled in the vibrant heart of San Francisco, just a stone's throw away from Montgomery Station, is more than just a workplace. We're a community where transparency thrives, and we embrace a collective spirit when it comes to problem-solving. 
+
+🚀 Our team is a diverse tapestry of top talent, with experience from companies like Ramp, Scale AI, Watershed, Rippling and a multitude of FAANG ex-employees. Their passion fuels our collaborative and industrious culture. But hey, we're not all about work—monthly happy hours, weekly paid dinners, and leisurely coffee strolls through bustling downtown SF are just a taste of the fun we add to the mix.
+
+OUR BENEFITS
+
+🩺 Health, Vision and Dental benefits 
+🏝️ Flexible PTO
+➕ Life Insurance and Accidental Insurance 
+❤️‍🩹 Short-Term Disability Coverage
+💸 Generous salary and equity for all staff
+🪜 401k option; helping you save for the future
+📚 Yearly learning and development stipend
+🚌 Commuter benefits if you live in SF 
+🚘 Fully covered uber ride home if you ever have to work late in the office 
+🏡 Remote office home stipend 
+🥤 Monthly happy hours; our last one was a Golden Gate Park BBQ 
+🍲 Company paid dinners on Tuesdays and Thursdays in the office 
+🎉 Annual Company Offsites; our last one was in Sonoma Wine Country 🍷
+OUR INTERVIEW PROCESS
+
+This is our process for most of our roles, but sometimes stages are subject to change from time to time, we will definitely notify you of the change ahead of time.
+
+Step 1: ✋ Chat with our recruiter - 30 mins
+
+Step 2: 💬  Technical Screen - Pallet Engineer - 60 mins 
+
+Step 3: Chat with Head of Engineering - 30 mins 
+
+Step 4: 🗣️ Final Interview - ~4 hours
+
+Brief Background Check and Reference Check 
+
+POSITION'S COMPENSATION RANGE
+
+$150,000-195,000 plus generous equity ✌️ 
+
+Pallet is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+Apply for this job
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone*
+Resume/CV*
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+What would be your preference for your ideal working location?*
+Select...
+
+Are you authorized to work lawfully in the United States for our company?*
+Select...
+
+Will you now or in the future require the company to sponsor an immigration case in order to employ you (for example, H-1B, STEM-OPT or other employment-based immigration case)?*
+Select...
+
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+How would you describe your gender identity? (mark all that apply)
+Select...
+
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+
+Do you identify as transgender? (select one)
+Select...
+
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning? (select one)
+Select...
+
+Are you a veteran or active member of the United States Armed Forces? (select one)
+Select...
+
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Pallet’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Select...
+
+Are you Hispanic/Latino?
+Select...
+
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Select...
+
+Voluntary Self-Identification of Disability
+Form CC-305
+Page 1 of 1
+OMB Control Number 1250-0005
+Expires 04/30/2026
+
+Why are you being asked to complete this form?
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability?
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Disability Status
+Select...
+
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+Powered by
+
+Read our Privacy Policy
+
+=========================================================================================
+2024/12/02
+Hitesh,
+
+Thanks for applying to Pallet. Your application has been received and we will review it right away.
+
+If your application seems like a good fit for the position we will contact you soon.
+
+Regards,
+Pallet
+
+** Please note: Do not reply to this email. This email is sent from an unattended mailbox. Replies will not be read.
+
+=========================================================================================

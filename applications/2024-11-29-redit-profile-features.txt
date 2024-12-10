@@ -1,0 +1,180 @@
+2024/11/29
+
+https://job-boards.greenhouse.io/reddit/jobs/6139241
+https://redditinc.com/careers
+
+
+
+Banner
+Reddit Logo
+Back to jobs
+Senior Frontend Software Engineer, Profile Features
+Remote - United States
+Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 97M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+Reddit’s consumer profile is a central part of a Redditor’s world and acts as a key entry point to their interests and contributions on Reddit. The Profiles team is focused on making profiles an open, safe and expressive part of Reddit for all users, further encouraging growth in user contributions. This is a high impact role where you will be involved in related technical and product strategy, operations, architecture and execution for a high traffic and large website.
+
+What You’ll Do:
+
+Work cross-functionally with product, design, and other engineering counterparts to execute on product and business strategy and build novel products and features that our users will love.
+Contribute to the full development cycle: technical design, development, test, experimentation, analysis, and launch. You’ll be reviewing code and design docs, giving feedback on product specs and mocks.
+Participate with a team of thoughtful, fast-moving, and motivated engineers. Contribute to standards that improve developer workflows, recommend best practices, and help mentor junior engineers on the team to grow their technical expertise.
+Continuously learn and improve your technical and non-technical abilities.
+Candidate Qualifications:
+
+Minimum 6+ years of non-internship, full-time, hands-on, professional software development experience developing software in one or more front end focused programming languages; Javascript, Typescript, ES6.
+Experience with one or more front-end web frameworks such as LIT, Polymer, React, Vue, or Angular with experience with CSS.
+Strong hands-on professional experience with GraphQL, REST, HTTP, Thrift basics, and the ability to design and implement maintainable APIs is a plus.
+Experienced with distributed caching layers, and distributed large scale data storage systems.
+Strong organizational skills, the ability to prioritize tasks and to deliver projects on schedule.
+BS degree in Computer Science, a similar technical field of study or equivalent practical experience.
+Entrepreneurial spirit. You are self-directed, innovative, and biased towards action in fast-paced environments. You love to build new things and thrive in ambiguity and even failure.
+Excellent communication skills. You partner effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences.
+Benefits:
+
+Comprehensive Health Benefits
+Retirement Savings plan with matching contributions
+Workspace benefits for your home office
+Personal & Professional development funds
+Family Planning Support
+Flexible Vacation & Reddit Global Days Off
+ 
+
+Pay Transparency:
+
+This job posting may span more than one career level.
+
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+
+The base pay range for this position is:
+
+$190,800 - $267,100 USD
+
+Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com.
+
+Apply for this job
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Employment
+
+Company name*
+Title*
+Start date month*
+Select...
+
+Start date year*
+End date month*
+Select...
+
+End date year*
+
+Current role
+Add another
+Education
+
+School
+Select...
+
+Degree*
+Select...
+
+End date year*
+Add another
+Are you currently authorized to work in the US?*
+Select...
+
+Do you now, or will you in the future, require immigration sponsorship to work at Reddit?*
+Select...
+
+LinkedIn Profile*
+What % of your experience is focused on frontend vs backend development?*
+Do you have experience using any of the following coding languages in production? JavaScript, TypeScript, and/or ES6? . *
+Select...
+
+Have you played a significant role in developing or leading user-facing features? If so, please provide a brief description of your experience in this area (2-3 sentences).*
+Have you been involved in or heavily led experiments or A/B testing to launch features for production? *
+Select...
+
+By selecting "I agree," I understand that the information I have provided as part of this job application will be processed in accordance with Reddit's Candidate Privacy Policy. *
+Select...
+
+Reddit's Candidate Privacy Policy
+
+How did you hear about this job?*
+Reddit U.S. Equal Employment Information
+Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. To bring community and belonging to everyone in the world, Reddit’s employees must represent communities and redditors on our platform.
+
+Our vision at Reddit is to have a workforce representative of people with different perspectives and experiences, including but not limited to, gender, race and ethnicity, sexual orientation, age, national origin, religion, and political views.
+
+We invite you to self-identify across the identities below so we can better understand our talent pools and assess our effectiveness in attracting and recruiting people to Reddit from all backgrounds.
+
+Answering these questions will not impact your application, nor will this information be shared with anyone making a hiring decision. For more information, please refer to our statement here.
+
+What gender identity do you most closely identify with? *
+Select...
+
+Are you a person of transgender experience? *
+Select...
+
+What sexual orientation do you most closely identify with? *
+Select...
+
+Do you live with a disability (as outlined by the ADA)?*
+Select...
+
+Are you a veteran/have you served in the military? *
+Select...
+
+Please select up to 2 ethnicities that you most closely identify with.*
+Select...
+
+Powered by
+
+Read our Privacy Policy
+
+
+=========================================================================================
+they wanted a blurb:
+Have you played a significant role in developing or leading user-facing features? If so, please provide a brief description of your experience in this area (2-3 sentences).*
+
+Yes, at Medallia I lead the development of numerous user facing feature by coordinating with product, backend and frontend teams.  
+
+At Nurx I delivered numerous user facing features adding functionality to the product and at Leica I was pivotal in architecting and building an entirely new cloud based point cloud viewer.
+
+=========================================================================================
+2024/11/29
+Hi Hitesh, 
+
+We want to thank you for your interest in Reddit.  We have received your application for our Senior Frontend Software Engineer, Profile Features role and are working as fast as we can to review it. If our hiring team sees a match to what they’re looking for, we’ll be in touch about next steps. 
+
+In the meantime, feel free to learn more about us!
+
+Check out what makes Reddit different from social media sites
+Get to know our company values
+Learn about how our engineers bring community and belonging to the world 
+See what our team is up to on our Blog and LinkedIn
+Read about how we support our “Snoos” through our Life at Reddit page
+Reflect back on memorable times with our 2023 recap
+We recognize that applying for a new job takes a lot of time, and so we take extra care to give every application we receive the attention it deserves. We strive to get back to you within a few business days.
+
+Best,
+
+The Reddit Talent Acquisition Team
+
+ 
+ =========================================================================================
+ 

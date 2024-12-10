@@ -1,0 +1,103 @@
+2024/11/29
+
+https://www.owner.com/?
+
+ended up applying directly on welcome to the jungle site.
+
+Not sure hwo that will go
+
+https://jobs.lever.co/owner/d72226c5-347e-4e1d-90be-93f204c6ad60
+
+
+
+Owner logo
+Senior Software Engineer, Full-Stack
+RemoteProduct /Full-time /Remote
+👋 About Owner.com
+
+Owner is the all-in-one platform that restaurants use to succeed online. 
+
+Thousands of restaurant owners use our tools to build their website, drive online orders, create their own branded app, manage their customer relationships, and set up marketing automations. 
+
+You can think of it as Shopify meets HubSpot, but specifically for restaurants. 
+
+Learn more about the problems we are solving for our customers here. 
+
+🌎 Our vision
+
+We’re starting by helping independent restaurants succeed online.
+
+But it’s not just restaurants that need our help. All local service-based businesses are struggling with these same problems. Huge technology corporations are taking their customers, bleeding their profits, and making it hard for them to survive.
+
+So, once we nail the solution for restaurants – we’ll scale it into every other local business type.
+
+In the future we envision, we’ll build the technology that tens of millions of local business owners need to succeed in the digital age.
+
+
+🚀 Our traction
+
+In just over 3 years we've generated tens of millions in revenue, served millions of guests, and have processed hundreds of millions of orders.
+
+More importantly, we’ve helped thousands of restaurant owners save their businesses - and not  only survive, but thrive.
+
+
+⭐ Our team
+
+Our team grew from 90 people to over 150 people in 2024. We’ve got top talent from the most successful companies in SMB software like Shopify, HubSpot, DoorDash, Procore and ServiceTitan. We’ll be scaling even faster in 2025 to keep pace with our customer growth.
+
+How we work: Owner is a remote-first, global company with a home base in San Francisco. For some of our creative teams we prioritize in-person collaboration at our SF HQ. The rest of our employees are distributed throughout the world.
+
+
+🫵 Why we’re looking for you
+
+We are looking for a mission-driven engineer who is passionate about their craft and committed to building incredible products for our customers.
+
+Our Stack:
+Frontend: [React, Next.js, Vue]
+Backend: [Node.js, Mongo]
+Typescript everywhere
+
+This role is 100% remote and can be based anywhere in the United States or Canada.
+💻 The impact you will have
+Build new products and features 0 to 1
+Deliver value to our end users across our entire system
+Shape our product direction by talking to users and collaborating with other teammates in feature brainstorms/roadmap planning
+Take ownership of projects from conception all the way to shipping
+Help us build a great team — interview, refer candidates, etc.
+✅ Minimum requirements
+5+ years of experience building applications
+Experience scaling with our backend stack (Nodejs, Mongo, AWS) and/or frontend stack (React, Next.js, etc.)
+Experience at product-focused startup/scale-up or technology company
+High degree of cross-functional collaboration and leadership. Product managers, designers and business leaders from past roles would speak positively and highly of you
+Dedicated to continuous professional development and possessing a lifelong-learner mindset
+Strong sense of ownership and drive, excellent communication
+🏆 Pay and benefits
+The estimated base salary range for this role is $165-200K, plus a generous equity pre-IPO equity package
+Other benefits include comprehensive health coverage, work from anywhere (100% remote workplace), unlimited PTO - plus extra fun perks!
+🚩 Notice - Employment Scams
+
+Please note that any communication from our hiring team regarding job opportunities will only be made by an Owner employee with an @owner.com email address.
+
+We will never ask you to provide personal or financial information, including but not limited to: your social security number, credit card numbers, passport information and other related banking information. If you believe you are being contacted by scammer, please mark the communication as "phishing" or “spam” and do not respond.
+
+
+🚩 Notice - Employment Scams
+
+Please note that any communication from our hiring team regarding job opportunities will only be made by an Owner employee with an @owner.com email address.
+
+We will never ask you to provide personal or financial information, including but not limited to: your social security number, credit card numbers, passport information and other related banking information. If you believe you are being contacted by scammer, please mark the communication as "phishing" or “spam” and do not respond.
+Owner Home Page
+
+Jobs powered byLever logo
+
+
+=========================================================================================
+2024/11/29
+Owner.com has received your application for Senior Full-Stack Software Engineer
+You'll receive an email when Owner.com responds. You can view and track your application at any time.
+
+Track application
+Thanks, 
+Team Welcome to the Jungle
+
+=========================================================================================

@@ -1,0 +1,68 @@
+2024/12/04
+
+https://withpersona.com/?
+https://jobs.lever.co/persona/a5b184b6-d98b-4274-b20d-6c02aad8a3f0?lever-source=Otta
+
+from https://app.welcometothejungle.com/jobs/LoxfFb4B
+
+Persona logo
+Software Engineer, Frontend (Remote/SF/NYC)
+San Francisco / New York / RemoteEngineering – Engineering /Full time /Hybrid
+Online identity is the foundation of how more and more businesses operate in a world where consumer behavior, privacy, and what constitutes an individual are constantly changing. We’re building the first universal and comprehensive identity infrastructure to help businesses of all sizes manage their customers, prevent fraud, and keep personal information protected.
+
+Founded in 2018 and headquartered in San Francisco, Persona is backed by top VC firms, including Index Ventures, Coatue, and Founders Fund. We’re extremely proud of our team and the work we’ve collectively accomplished so far. This position is based in San Francisco where the team is in-office Tuesday, Wednesday, and Thursday with the option to work from home Monday and Friday. We offer relocation support for those based outside of San Francisco Bay Area.
+
+About the role
+We’re building both a product and a technology, and we always prioritize acting in a customer-centric way. In this role, you'll be presented with challenging technical problems, as Persona's product needs are increasingly complex as we balance the ever-changing compliance requirements of our customer base, ranging from small startups to Fortune 10 companies. You’ll build reliable products and seamless user experiences that will contribute directly to the long-term quality of the Persona product.
+What you'll do at Persona
+Design, build, and ship foundational aspects of the identity platform
+Serve as a frontend knowledge leader and champion best practices like reusable component architecture and using the Persona Design System
+Work closely with product managers, designers, customer success managers, and sales and growth collaborators to build great experiences to delight our customers and our customers’ customers
+Partner with fellow engineering teams to deliver on complex initiatives together
+You will work in a solution stack that extends all the way from complex back-end data through web services to highly usable web-based user interfaces
+Work directly with customers to build product features
+Directly shape system design, development methodologies, and implementation technologies
+What you'll bring to Persona
+2+ years of experience in a frontend engineering role
+Experience with modern frontend technologies: React, TypeScript, Jest, HTML5, CSS3
+Experience with frontend testing practices and tools (Jest, Vitest, Cypress, Testing Library)
+Product-thinker - You build products in a way that maximizes product value while minimizing complexity. You understand and can resolve tensions between product requirements and engineering design for large-scale projects.
+Frontend expertise - You have a strong foundation in frontend and an ability to produce scalable, high-quality code with well-written documentation and tests.
+Innovative mindset - You go beyond implementing what is tasked and make product suggestions and features that help push our product forward. You are naturally curious and embrace change.
+Independent thinking - You learn from your mistakes quickly, and know how to unblock yourself when needed. You give yourself agency to take on new problems and drive them to impactful solutions.
+Perfect is the enemy of good - You take pride in understanding and solving problems as soon as possible, and learn quickly from mistakes in the spirit of growing as an engineer.
+Collaborative spirit - Collaboration isn’t just a buzzword for you, it’s your secret to success. You leverage the diverse perspectives of your teammates and sometimes go out of your way to learn other functions to get the job done.
+Nice to have
+Experience working with modern frontend build tools such as Vite, Rollup, and esbuild
+Familiarity with our backend stack: Ruby on Rails, Kubernetes, Google Cloud (GCP), MySQL, MongoDB
+Knowledge of modern WAI-ARIA accessibility (a11y) standards
+Experience with React Native
+Experience maintaining and publishing public npm libraries and SDKs
+Experience building, maintaining, or contributing to a design system
+Comfortable collaborating and inspecting designs in Figma
+$130,000 - $220,000 a year
+Offer and benefits
+For this role, the estimated base salary range is between $130,000 - $220,000. Base salaries are just one component of the total compensation package and are determined by a number of factors such as years of experience, expertise, qualifications and more. Salary ranges reflect regional market standards for our SF and NY office locations. In addition to base salary, we offer competitive equity packages that play a big part in recognizing you for the huge impact you will have on helping us achieve our mission. Please note, the salary range is a guideline that is subject to change without notice. We are proud to offer best-in-class benefits at Persona. From 401K matching and parental leave, to quarterly company-wide mental health days, unlimited PTO, family planning and wellness stipends, we constantly seek ways to continue embodying our value of People First.
+
+Diversity, equity, inclusion and belonging
+At Persona, we strive to put diversity and inclusion at the forefront of everything we do, reflecting our core values. Our DEIB Employee Resource Group seeks to build a diverse and inclusive team that fosters an environment where each Personerd feels empowered to bring their unique differences to work and achieve their full innovative potential. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first.
+
+We strive to promote a culture that celebrates diversity and inclusiveness regardless of, but not limited to, race, gender, sexual orientation, family status, religion, ethnicity, national origin, physical disability, veteran status, or age.
+Persona Home Page
+
+Jobs powered byLever logo
+
+
+=========================================================================================
+2024/12/04
+Hi Hitesh,
+ 
+Thank you for your interest in Persona! We wanted to let you know we received your application for the Software Engineer, Frontend (Remote/SF/NYC) position, and we appreciate your interest in joining our team.
+ 
+Our team will review your application and contact you if your qualifications match our needs for the role. If you are not selected for this position, keep an eye on our careers page for new postings as we add more roles.
+ 
+ 
+Best,
+Talent at Persona
+
+=========================================================================================

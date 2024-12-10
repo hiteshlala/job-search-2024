@@ -1,0 +1,121 @@
+2024/12/04
+
+https://goteleport.com/?
+https://jobs.lever.co/teleport/86683504-b170-40b6-b0ed-66c9e375a319?lever-source=Otta
+
+from: https://app.welcometothejungle.com/jobs/AvrsYMZi
+
+Teleport logo
+Senior Fullstack Engineer - Policy
+United StatesEngineering – Software Engineering /Full-Time /Remote
+We help companies stay secure while moving fast.
+
+Built by engineers for engineers, The Teleport Access Platform delivers on-demand, least privileged access to infrastructure based on cryptographic identity and zero trust, with built-in identity security and policy governance, making the happy path for engineers the secure path.
+
+Teleport is trusted by the world’s fastest-moving companies, including Elastic, Snowflake, Doordash, and NASDAQ. We recently raised US$110M at a US$1.1B valuation.
+
+Our Vision
+
+Today's computing environments have too much complexity, too many network boundaries, and too little trust. Complexity slows engineers down and leads to human errors. Complex systems can’t be secure despite the red tape of bureaucracy. We make trusted computing simple. This gives engineers the freedom to move and build a better future.
+
+Why Teleport
+
+At Teleport, we focus on empowering our people to accomplish their goals by working alongside highly talented people to make the most of their careers. You have the freedom, autonomy and trust to do what you’re great at and have a significant impact on the future prospects of the company. 
+
+Whether that’s taking a feature or project from ideation to deployment or working with some of the biggest, most interesting companies in the world and solving real challenges for them, we want you to help us build the future.
+
+We’re not a big company. You won’t get lost in a crowd. Instead, we move fast, with a team that wants to make an impact, that shares in our success, and gives you the freedom, power, and autonomy to become the very best at what you do.
+Who you are - To succeed at Teleport and take your career into the future, we are looking for people who are:
+Autonomous: We value those who take initiative and get things done. Our team trusts in their ability to make decisions that benefit the company and its customers, letting their work speak for itself.
+Security-minded: Working on the very fabric of the internet and providing infrastructure access to some of the world’s biggest companies means you need to think security-first. Our platform is the gatekeeper - The Wall. And winter is coming. We need to ensure we’re secure.
+Business-savvy: We don’t code for coding's sake. We build for our customers. Designed by engineers for engineers, we understand their environment, challenges and needs better than anyone else. That means we have built a business that can support them by making the right choices that ensure we are in business for the long haul.
+Professional: We are a team of dedicated professionals, committed to excellence. We set a high bar for joining Teleport, ensuring we attract top talent ready to help shape the future. If you’re passionate about being the best at what you do, Teleport is the place for you
+We love this job, and hope you will enjoy it too:
+The range of problem solving includes networking, performance, security and integrations with existing systems.
+Most of the code you will write will be open source.
+Our products are loved by their users, you’ll get to talk to some of them on Slack.
+We practice thorough code reviews and have an open design process.
+The projects you may be working on:
+Teleport Policy, a web app providing insights into your infrastructure.
+New graph visualization algorithms.
+Making Access Graph more responsive by optimizing client-side processing.
+New Access Graph functionality such as crown jewel and Cloud integrations.
+Requirements
+Ability to work in the US, Canada, Australia, England, Ireland, or Poland without a visa.
+Experience with JavaScript, TypeScript and React.
+Experience with Go is a plus.
+Web security experience is a plus.
+$173,600 - $293,000 a year
+The base salary range for new hires in this role is between $173,600 - $293,000 for a level 4. Our salary ranges are determined by role, level, and location. The range displayed on this job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. 
+We also offer equity compensation and a comprehensive list of benefits below:
+401(k) Retirement Plan with matching employer contributions
+Paid Time Off: Unlimited
+Sick Leave: 10 days
+Paid leave: 12 weeks 
+Paid Holidays: 11 days
+Medical, dental, vision, Long Term disability, and life insurance  - PPO, HMO, FSA, EPO plans provided
+Flexible expense benefit: $4.8k annual expense benefit for work related expenses
+
+The Benefits
+
+While many companies flaunt their benefits and perks to convince you to join their company, we believe your career is more important than that. That’s why we focus on making your day-to-day the best it can be while empowering you to achieve your goals and aspirations. 
+
+What does that mean?
+
+- It means you’ll have the autonomy to make your own decisions and focus on what’s important to you and your role.
+- It means having access to a senior team that supports you and wants to see you succeed.
+- You’ll have a smart team you can learn from, collaborate with, and grow with.
+- It means being able to make an impact and have a voice in the future of the feature, product or company direction. We don’t just leave you to focus on a niche. We allow you to spread your wings and take advantage of opportunities, challenging projects and exciting problems.
+- It means removing the bureaucracy and red tape that stifles innovation while giving you access to all the information you need to build and take action more quickly. 
+- It means allowing you to have the career you’ve always wanted today, rather than having to “earn your stripes” and wait for the right moment. If you’re good enough, you’re good enough.
+
+But we don’t stop there.
+
+In addition to the career opportunities at Teleport, we offer a whole range of benefits that help you to maximize your future, including:
+
+- Extensive health coverage
+- Annual expense budget
+- Rest & recovery policies that maximize leave and your ability to recharge
+- Investment in your future with retirement savings plans
+- Equity in a US $1.1-bn business
+- Professional development opportunities
+
+Do you have what it takes?
+
+Get to use (and know) Teleport through our unique interview process 
+
+At Teleport, we do things a bit differently. And when we say we only hire top talent, we actually mean it. Because of this, our interview process is different too - and we’re proud of it.  We let your work do the talking. We don’t go in for six rounds of interviews, live whiteboard or live-coding. We don’t hire people that can talk a good game. We only want the best. And for that, we need to see what you can do,  in your own time, in your own way.  For real.
+
+But interviews are a two-way street. Through the project, you’ll get a real taste of life at Teleport, including: 
+
+- We’re flexible - you’ll have plenty of time to complete your project, if life gets in the way, that’s ok. We can - work around you. 
+- We give you autonomy  - you’ll have the space and freedom to figure things out, make decisions, and problem-solve.
+- We’re collaborative -  Got questions?
+- We have answers. You’ll have support from your team - the one you’ll be working with day in day out if you’re successful in getting the role.
+- We progress careers - During the project,  see how much you learn. That’s what working at Teleport is like. We like learning, on the job. All-the-time. 
+- We can move fast (if you can) - two weeks sound like a long time? No problem? Early submissions are fine, and we’ll keep the process moving. 
+
+Think you’ve got what it takes? We’d love to see it! Unconvinced? We can guarantee three things: 
+- It’ll challenge you.
+- You'll learn a lot. 
+- If you love the process, you'll love working at Teleport.
+
+Teleport is an equal opportunity employer and does not discriminate against any employee or applicant on the basis of age, color, disability, gender, national origin, race, religion, sexual orientation, veteran status, or any classifications protected by federal, state, or local law.
+
+Candidate Privacy Notice: For information about our collection and processing of job applicant personal data for this position, please see our Job Applicant Privacy Policy and Notice of Collection at https://goteleport.com/legal/apply/job-applicant/
+Teleport Home Page
+
+Jobs powered byLever logo
+
+=========================================================================================
+2024/12/04
+Hi Hitesh,
+
+We received your your application for Senior Fullstack Engineer - Policy. Thank you for your interest in Teleport!
+
+Our team will review your application and will be in touch if your qualifications match our needs for the role. If you are not selected for this position, keep an eye on our jobs page as we're growing and adding openings.
+
+Best,
+The Teleport Team
+
+=========================================================================================

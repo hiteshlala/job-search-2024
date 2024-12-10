@@ -1,0 +1,93 @@
+2024/12/05
+
+from: https://app.welcometothejungle.com/jobs/VG9rQUR5
+
+https://www.beamimpact.com/?
+https://jobs.lever.co/beam-impact/21a105ad-79fa-42b9-8726-d52bb9082121?lever-source=Otta
+
+Beam Impact logo
+Senior Software Engineer, Web Full-Stack
+RemoteEngineering /Remote /Remote
+About Beam
+
+At Beam, we’re on a mission to shift $10B from brands to nonprofits by creating what loyalty would look like if it were designed for today’s customers. Last year, we grew revenue by 4.6x while also funding the prevention of >2B lbs of CO2 emissions, 7M meals for families experiencing food insecurity, 5K hrs of free therapy, and much more. 
+
+Across our network of 250+ mission-driven brands like Tarte Cosmetics, Roots Canada, and Parade, we let you make ~1% of every purchase go to a high-impact nonprofit you choose from a curated set reflecting what the brand stands for–at no extra cost. 
+
+As customers see how their dollars are going towards goals, like funding the removal of 10K lbs of plastic from the ocean, Beam builds emotional buy-in. We lift average order value by 15% and convert 30% more customers to make a second purchase within 90 days–far outperforming traditional loyalty, especially with millennials and Gen Z. 
+
+Our work to help people turn their spending power into tangible impact every day has been recognized by Forbes 30 Under 30 for Social Impact, SXSW, Cannes Lions, and more. 
+
+About the Role
+
+Are you looking to join a highly motivated team working for social impact? At Beam we’re on a mission to shift $10 Billion to high-impact nonprofits.
+
+As a Senior Software Engineer on our SDK team, you will be working with a team of talented developers responsible for creating the core software that powers Beam’s mission. Our SDKs include web components, an NPM package, APIs, Salesforce packages, and more, to enable Beam’s impactful shopper experience in our partner’s e-commerce stores. You will have the opportunity to work with a wide range of frontend and backend technologies, building new features, supporting existing functionality, and leveling up our development practices with significant ownership of our SDK. 
+
+We’re a highly collaborative team motivated by impact and our high growth environment. This is an opportunity for someone excited to have a high level of impact on Beam’s continued success.
+Responsibilities
+Design and plan new solutions through collaboration with our product manager and our engineering team using RFC and Tech Spec documents
+Collaborate with your peers to execute and implement high-quality software
+Own the execution of your projects from Product Spec to delivery
+Be a force multiplier by sharing knowledge through code reviews, pair programming, 1-1 conversations, and broader team trainings
+Develop subject matter expertise in the Beam SDK and underlying platform technologies
+Gain knowledge of the nonprofit giving and e-commerce enablement spaces
+Foster a team culture around Beam’s values of community, inclusivity, care, accountability and support
+Qualifications
+4+ years building full stack production systems for complex web applications
+Proficient in developing web applications using a Javascript framework such as React
+Proficient with CSS
+Proficient in web architecture principles and API design
+Familiar with fundamental development principles and processes such as observability, performance optimization, continuous integration, automated testing, and cloud infrastructure
+Bachelor’s degree in Computer Science or related technical field (or equivalent training, fellowship, or work experience)
+Strong communication skills and can explain & advocate for technical projects to nontechnical roles
+Bonus Points For
+Experience in an early startup
+Experience in e-commerce enablement
+SDK development experience
+Experience with A/B testing solutions, especially Statsig
+Benefits
+Unlimited PTO with a required minimum of at least 2 weeks off per year
+Competitive salary
+Significant company stock options
+Partial 401k match
+Healthcare, vision, dental fully covered
+Paid parental leave for all parents
+Perks
+$100 / month in wellbeing stipend to be used at your discretion (e.g., gym membership, mental health resources like yoga classes & meditation app subscriptions)
+$750 / year in professional development (e.g., conferences, courses, books)
+Option to work in our gorgeous NYC HQ with sunlight, plants, drinks, snacks, music and energy
+Regular team events and volunteering
+Regular on-sites every 4-6 months for the entire Beam team to come together for team-building in NYC 
+$1,000 referral bonuses for every new member of the growing Beam team that you send our way
+$175,000 - $185,000 a year
+Location: Remote
+Type: Permanent
+Time Commitment: Full-time
+Compensation: Salary + Bonus + Equity
+Beam is an equal opportunity employer and we value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status, or any other characteristic protected by law.
+We are a remote-friendly company that is able to hire in all 50 states and D.C and Canada. We can’t sponsor working visas, so all applicants will need to have work authorization in the US or Canada.
+
+Beam Impact Home Page
+
+Jobs powered byLever logo
+
+=========================================================================================
+2024/12/05
+my blurb in applying:
+A couple of reasons.  I love that Beam has 50% female employees and that it partners with companies that are committed to giving back to the community.  You're building with technologies I love to build!  
+
+=========================================================================================
+2024/12/05
+Hi Hitesh,
+ 
+Thank you for applying to Beam Impact!
+ 
+Our team is experiencing a significant influx of applications for this position. If we identify a strong fit in your background and experience, we will reach out directly with next steps.
+ 
+In the interim, you can learn more about our team here.
+ 
+Cheers!
+The Beam Impact Team
+
+=========================================================================================

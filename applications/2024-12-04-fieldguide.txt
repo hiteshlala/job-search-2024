@@ -1,0 +1,148 @@
+2024/12/04
+
+https://www.fieldguide.io/?
+https://jobs.ashbyhq.com/fieldguide/74aaf560-51bd-429b-988f-183746ee870e?
+
+from https://app.welcometothejungle.com/jobs/blF1a0g5
+
+Fieldguide
+Senior Software Engineer
+Location
+San Francisco, CA or Remote (USA)
+
+Type
+Full time
+
+Department
+Engineering, Product, and Design
+
+Compensation
+Tier 1
+Estimated Base Salary $170K – $184K • Offers Equity
+Fieldguide’s Total Rewards philosophy is to ensure fair, unbiased compensation and fair pay along with competitive benefits in all locations in which we operate. Our salary ranges are determined by role, level and location, and our job titles may span more than one career level. The actual base pay for the successful candidate in this role is dependent upon many factors such as location, transferable or job-related skills, work experience, relevant training/certifications, business needs, and market demands. The base salary range is subject to change and may be modified in the future.
+
+Overview
+Application
+About Us:
+
+Fieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of assurance and audit practitioners specifically within cybersecurity, privacy, and ESG (Environmental, Social, Governance). Put simply, we build software for the people who enable trust between businesses. 
+
+We’re based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere. We're backed by top investors including Bessemer Venture Partners, 8VC, Y Combinator, Floodgate, Elad Gil, Justin Kan, Qasar Younis, Eric Ries, and more.
+
+We value diversity — in backgrounds and in experiences. We need people from all backgrounds and walks of life to help build the future of audit and advisory. Fieldguide’s team is inclusive, driven, humble and supportive. We are deliberate and self-reflective about the kind of team and culture that we are building, seeking teammates that are not only strong in their own aptitudes but care deeply about supporting each other's growth.
+
+As an early stage start-up employee, you’ll have the opportunity to build out the future of business trust. We make audit practitioners’ lives easier by eliminating up to 50% of their work and giving them better work-life balance. If you share our values and enthusiasm for building a great culture and product, you will find a home at Fieldguide.
+
+About the Role:
+
+We're looking for senior or above level engineers to join us. You'll have the opportunity to play a tech lead role on one of our current teams, or help with hiring and building out our next teams depending on your skills and interests. You'll also play a key role in shaping our engineering processes and culture.
+
+This is an opportunity to join as an early engineer at a company with product-market fit that still has huge amounts of room to grow. We’re competing with legacy accounting and audit products that are 20+ years old and have negative NPS, yet do billions in sales and have seen little competition in a decade.
+
+What You'll Do:
+
+Be an essential technical contributor at a Series B-stage company as it scales
+
+Play a leadership role on the end-to-end development of features, specifically in regards to making architectural decisions and trading off different approaches
+
+Bring a mindset of continuous improvement to your work. You’ll be responsible for making our technology and processes better over time.
+
+Understand how to optimize for iteration speed while maintaining a high quality bar and technical rigor
+
+
+‍You’ll need to have experience with several of the following:
+
+Modern web tech stacks consisting of several of the following: TypeScript, React, GraphQL, NodeJS, Hasura, Postgres, and AWS
+
+Architecting systems and data pipelines that can handle the ingestion, digitalization, storage, and retrieval of document-heavy data sets, including document processing, search, and classification (ML experience is a plus)
+
+Test and automation tools like Jest and Cypress
+
+DevOps and continuous integration/delivery best practices
+
+Information security best practices
+
+Collaborating on all aspects of product strategy and UX
+
+Shaping a young tech stack, product, and engineering organization
+
+‍
+More about Fieldguide:
+
+Fieldguide is a values-based company. Our values are:
+
+Fearless - Inspire & break down seemingly impossible walls.
+
+Fast - Launch fast with excellence, iterate to perfection.
+
+Lovable - ​​Deliver happiness & 11 star experiences. 
+
+Owners - Execute & run the business with ownership.
+
+Win-win - Create mutual value & earn trust for life. 
+
+Inclusive - Scale the best ideas with inclusive teams. 
+
+Some of our benefits include: 
+
+Competitive compensation packages with meaningful ownership
+
+Unlimited PTO
+
+Wellness benefits, including a bundle of free therapy sessions
+
+401k
+
+Technology & Work from Home reimbursement
+
+Flexible work schedules
+
+Apply for this Job
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+Powered by 
+Privacy PolicySecurityVulnerability Disclosure
+
+
+=========================================================================================
+2024/12/04
+Hi Hitesh,
+Thank you for your interest in joining the Fieldguide team! This email confirms that we have received your application for the Senior Software Engineer role.
+Our team will review your application and will be in touch if your qualifications match our needs for the role. If you are not selected for this position, keep an eye on our jobs page as we're growing and adding openings.
+In the meantime, check out our blog for the latest news about Fieldguide, and we will follow up with you as soon as we can.
+Best,
+Fieldguide Hiring Team
+
+=========================================================================================
+2024/12/04
+Max Dean <max@fieldguide.io>
+10:33 AM (8 minutes ago)
+to me
+
+Hi Hitesh,
+I hope you’re doing well! Thank you for applying to the Senior Software Engineer position at Fieldguide. After reviewing your application, we’d love to invite you to an initial interview to discuss your experience and explore how you might be a fit for our team.
+The interview will be a 30-minute video call where we can talk more about the role, your background, and answer any questions you may have about Fieldguide.
+Please use the link below to schedule a time that works best for you:
+https://you.ashbyhq.com/meeting/6353b5b7-e3bb-4af8-8143-1b581be939dc/
+If none of the available times work for you, feel free to let me know, and I’ll do my best to accommodate your schedule.
+In the meantime, please feel free to check out our FAQ to learn more about us before our meeting.
+Looking forward to speaking with you!
+Best regards,
+
+—
+
+Max Dean
+Senior Technical Recruiter
+max@fieldguide.io · 925-353-0331
+linkedin icon linkedin icon www.fieldguide.io
+
+set a date for Mondy 9 Dec at 11am.
+also sent a linke with a lot of faq that has some good stuff to read before meeting:
+https://fieldguide.notion.site/Fieldguide-Engineering-Product-and-Design-EPD-FAQ-2633c891235f4464a027461a5b4b31c7
+
+=========================================================================================
+
+2024/12/09
+Met with Max Dean.  Next step will be a 1 hr tech interview - if the team decides I am worth the trouble.
+
+=========================================================================================

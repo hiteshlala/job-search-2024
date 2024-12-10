@@ -1,0 +1,110 @@
+2024/11/20
+
+https://www.capitalonecareers.com/job/remote/senior-software-engineer-full-stack-capital-one-software-remote/1732/73187315216
+
+
+R202750
+Posted 11/18/2024
+Senior Software Engineer, Full Stack - Capital One Software (Remote)
+Remote, USA | McLean, Virginia
+Pin job
+Apply
+
+Category
+Engineering
+
+Experience
+Principal Associate
+
+Primary Address
+Remote, USA
+Overview
+Locations: US Remote, United States of America
+Senior Software Engineer, Full Stack - Capital One Software (Remote)
+Capital One Software is seeking a Senior Software Engineer who is passionate about marrying innovation with emerging technologies. 
+
+We are a new enterprise B2B software business focused on providing cloud and data management solutions to companies operating in the cloud.  This is Capital One’s first foray into the enterprise software market and comes after years spent building our own in-house cloud and data management tools that enable us to operate at scale in the cloud. As a Capital One Software Engineer, you’ll have the opportunity to build meaningful software that enables our customers to manage their data securely and efficiently at any scale.  Additionally as a Capital One Engineer you get to collaborate with some of the best in this business. 
+
+What You’ll Do: 
+
+Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies
+
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community
+
+You will have exposure to envision the best customer experience and build with an excellent team or engineers and product managers.
+
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment.
+
+Utilize programming languages like Java, Python, Go SQL, and NodeJs, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+
+Basic Qualifications: 
+
+Bachelor’s Degree
+
+At least 3 years of experience in software engineering (Internship experience does not apply)
+
+Preferred Qualifications:
+
+5+ years of experience in at least one of the following: Java, Python, Go, SQL, or NodeJs
+
+1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+
+3+ years of experience in open source frameworks
+
+2+ years of experience in Agile practices
+
+At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, or another type of work authorization).
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+Remote (Regardless of Location): $140,000 - $159,800 for Principal Associate Senior Software Engineer; $140,000 $159,800 for Senior Software Engineer
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at theCapital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.
+No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+
+
+=========================================================================================
+
+2024/11/20
+Applied
+  - had to create an account on their platform - already had one from the last time I applied
+  - also reused my previous application form info for this one
+  - overall the process was painless
+
+They sent an email saying I have to take a tech screen in 14 days at:
+  https://www.mycareeratcapitalone.com/wb/x/?i=C2599559&j=PILT45  
+
+https://app.codesignal.com/assessments/practice
+
+ 
+=========================================================================================
+ 
+2024/11/22
+decided to just go for it.
+
+If you have technical difficulties with the assessment(s), contact CodeSignal via support@codesignal.com. If you have other questions, email Careers@capitalone.com.
+
+There were 4 questions, I ran out of time. I got 1 correct and the other halfway done.
+1. given strings count the number of triplets that have only 2 vowels in them.
+2. given an array of numbers find the high numbers num[i] > num[i+1] && num[i] > num[i-1] and then arrange them in order of lowest high to highest.  reducing original array each iteration.
+  - got something working that passed half the tests but had to debug so moved on
+3. given a matrix with an object in there and obstackesl let the object drop to its lowest point - touch edge or an obstackesl
+  - got something working that passed half test
+4. given 2 arrays of numbers find the longest common multiple prefixes of the numbers the two arrays.
+  - got this passing all the local tests but its O(n^3) so it timed out on the full test battery.  
+Ran out of time!!
+1hr5min
+fingers crossed.  It looks like I scored 476/1200 pretty poor :(
+  
+

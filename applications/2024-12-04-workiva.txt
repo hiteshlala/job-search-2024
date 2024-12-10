@@ -1,0 +1,146 @@
+2024/12/04
+https://www.workiva.com/
+https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/USA---Remote/Senior-Software-Engineer---Frontend-Frameworks_R9551?timeType=42bdb7ba896b010e31794a60db299a00&jobFamilyGroup=75715069c9720196b19bd65ab32bc01a
+
+Skip to main content
+careers
+Careers
+
+Sign In
+Visit Workiva.com
+Search for Jobs
+Introduce Yourself
+
+Senior Software Engineer - Frontend Frameworks page is loaded
+Senior Software Engineer - Frontend Frameworks
+Apply
+locations
+USA - Remote
+time type
+Full time
+posted on
+Posted 8 Days Ago
+job requisition id
+R9551
+Join Frontend Frameworks at Workiva and help construct the internal frameworks that other teams build upon to make resilient and user-friendly web applications. The Frontend Architecture team owns the application shell that houses all of our products and our proprietary microfrontend framework that seamlessly integrates many independently deployed frontends. Much of this is built in the Dart language, but we’re scaling up to accelerate enablement of TypeScript as a first class frontend language at Workiva, and need an injection of TypeScript + React talent to help guide and execute our evolution.
+
+As a Senior Frontend Engineer, you will play a central role in executing our frontend TypeScript enablement initiative by building frontend features and libraries, canonizing best practice patterns and tools, and guiding/mentoring fellow engineers in TypeScript + React development. You will help us elevate our frontend developer experience and bolster the scalability, adaptability, and expansiveness of our web applications. Through close collaboration with our talented engineering and design cohorts, you will drive the delivery of top-tier solutions that exceed our customers' expectations.
+
+We are searching for an enthusiastic, frontend obsessed individual who relishes continual growth and is eager to grow TypeScript development across our products. If you are fueled by innovation and thrive in a collaborative setting, this role presents an exceptional opportunity to effect substantial change. Join our esteemed team at Workiva and become an integral part of a flourishing community of frontend experts, where your leadership will directly influence our products and clientele.
+
+What You’ll Do
+
+Lead and execute the frontend TypeScript enablement initiative by developing features, libraries, and tools that improve our internal frameworks
+
+Establish and codify best practices for TypeScript and React development, ensuring consistency and scalability across teams
+
+Mentor and guide fellow engineers in TypeScript and React, fostering growth and knowledge sharing across the organization
+
+Collaborate with engineering and design teams to deliver top-tier solutions that enhance our web applications' user experience and performance
+
+Elevate the frontend developer experience by improving the scalability, adaptability, and expansiveness of our products
+
+Contribute to the evolution of Workiva’s frontend architecture, including our microfrontend framework and application shell
+
+Work closely with product teams to ensure seamless integration and deployment of independently developed frontends into a cohesive user experience
+
+What You’ll Need
+
+Minimum Qualifications
+
+ 2+ years of relevant experience with a Bachelor's Degree or equivalent experience
+
+Preferred Qualifications
+
+Experience in frontend development with TypeScript and React in a large-scale enterprise environment
+
+Proven experience building frameworks and developing best practices consumed by other development teams
+
+Experience with microfrontends or module federation and knowledge of distributed frontend application architectures
+
+Ability to collaborate and evangelize frontend best practices across multiple independent teams contributing to the same product
+
+Strong knowledge of frontend web development tools and patterns, with experience in Dart being a plus
+
+Ability to mentor and guide other developers, with a passion for knowledge sharing and continuous learning
+
+Excellent communication skills to work with cross-functional teams, including design and backend engineering
+
+Familiarity with frontend architecture and the challenges of building scalable web applications
+
+Adaptability and enthusiasm for contributing to evolving technologies and frameworks
+
+Physical Requirements and Working Conditions
+
+Embrace your inner wanderlust – expect up to 15% travel
+
+Stay virtually untethered with the power of reliable internet access, enabling you to work remotely from your chosen spot, whether that's your home office or a beachside café
+
+How You’ll Be Rewarded
+
+✅ Salary range in the US: $111,000.00 - $178,000.00
+✅ A discretionary bonus typically paid annually
+
+✅ Restricted Stock Units granted at time of hire
+
+✅ 401(k) match and comprehensive employee benefits package
+
+The salary range represents the low and high end of the salary range for this job in the US. Minimums and maximums may vary based on location. The actual salary offer will carefully consider a wide range of factors, including your skills, qualifications, experience and other relevant factors.
+
+Workiva is an Equal Employment Opportunity and Affirmative Action Employer.  We believe that great minds think differently.  We value diversity of backgrounds, beliefs, and interests, and we recognize diversity as an important source of intellectual thought, varied perspective, and innovation.  Employment decisions are made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression genetic information, marital status, citizenship status or any other protected characteristic.  We strongly encourage and welcome people from historically marginalized groups to apply.
+
+Workiva is committed to working with and providing reasonable accommodations to applicants with disabilities. To request assistance with the application process, please email talentacquisition@workiva.com.
+ 
+
+Workiva employees are required to undergo comprehensive security and privacy training tailored to their roles, ensuring adherence to company policies and regulatory standards.
+
+Workiva supports employees in working where they work best - either from an office or remotely from any location within their country of employment.
+
+#LI-MJ2
+External Sidebar
+Helpful Links
+✅ About Workiva
+
+✅ Life at Workiva
+
+✅ Benefits & Perks
+
+✅ DEIB at Workiva
+
+✅ Workiva Newsroom
+
+✅ Leadership Team 
+
+
+Read More
+Current Employees
+Apply for open positions through your Workday account on our Internal Career Site. For questions, please reach out to the recruiter listed on the job posting. 
+
+Follow Us
+Privacy Notice
+© 2024 Workday, Inc. All rights reserved.
+
+
+=========================================================================================
+2024/12/04
+had to create an account on their workday platform
+hiteshlala@gmail.com Narayan2!
+
+=========================================================================================
+2024/12/04
+Hi Hitesh,
+
+Thank you for your interest in a career at Workiva. We have received your application for the Senior Software Engineer - Frontend Frameworks position.
+
+We will review your application and contact you in regards to the next step in the job application process. If we feel your skills and qualifications match what we are seeking for this position, a Recruiter or Hiring Manager will reach out to you directly. If you have any questions, please feel free to refer to our Candidate FAQs page for more information.
+
+Please Be Advised: We would like to make you aware of our Customer Securities Trading Policy. Due to the fact that thousands of publicly traded companies use Workiva's software, this policy effectively limits you to trading in the securities of mutual funds and ETF's only. Should you receive an offer, you will be asked to acknowledge that you have read this policy. Here is a link to our FAQ regarding this policy, but should you have any additional questions, please reach out to talentacquisition@workiva.com or to your recruiter.
+
+We appreciate your interest in Workiva and look forward to connecting with you soon!
+
+Workiva Talent Acquisition
+www.workiva.com/careers
+Workiva Benefits and Perks
+
+=========================================================================================
+

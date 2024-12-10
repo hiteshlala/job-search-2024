@@ -1,0 +1,16 @@
+{
+  "ts-node": { 
+    "files": true 
+  },
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": false,
+    "skipLibCheck": true,
+    "target": "ES2020",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "typeRoots": ["src/types.ts"]
+  },
+  "include": ["src"]
+}

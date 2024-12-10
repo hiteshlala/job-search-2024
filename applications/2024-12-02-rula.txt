@@ -1,0 +1,124 @@
+2024/12/02
+
+found through welcome to the jungle
+https://jobs.ashbyhq.com/rula/f656b6b2-4ee1-4b3b-aa2e-4ff18e7e6f8d?
+https://www.rula.com/?
+
+
+Rula
+Sr. Software Engineer - Partnerships (Remote)
+Location
+Remote - United States
+
+Type
+Full time
+
+Department
+Engineering, Product, & Design
+
+Compensation
+Range below includes base salary, there is no bonus for this role.
+$162.9K – $191.6K • Offers Equity
+The range above represents the minimum and maximum for starting total cash in this role. The total cash offered is based on a combination of factors such as individual proficiency, pay equity, and experience level.
+
+Overview
+Application
+We believe that mental health is just as important as physical health. We recognize that mental health issues can be complex and multifaceted, and we are dedicated to treating the whole person, not just the symptoms.
+
+We aim to create a world where mental health is no longer stigmatized or marginalized, but rather is embraced as an integral part of one's overall well-being. 
+
+We believe that by providing quality care that is both evidence-based and compassionate, we can empower individuals to take charge of their mental health and achieve their full potential. We are passionate about making a positive impact on the lives of those struggling with mental health issues and we strive to be a force for positive change in the field of mental healthcare.
+
+About the Role
+
+Rula's mission is to make mental healthcare work for everyone: patients, therapists, and healthcare systems. As a member of Rula’s Partnerships team, you'll use your experience with 3rd party integrations to develop cutting-edge technology, enabling a seamless experience for our Partners when helping patients interact with Rula.
+
+In this role, you'll engage in the development of high-impact solutions within a cross-functional team. 
+
+As a Senior Software Engineer, you will work across Rula’s stack to craft solutions in three main areas: optimizing partnership enrollment by building tools to enhance site experiences, building, and supporting partner integrations, and enhancing analytics into how our partners interact with our systems so we can continually improve them. 
+
+Throughout, you’ll apply your expertise and experience to pair with fellow engineers, improve our processes, and foster a culture of engineering excellence. The ideal candidate will present a bias for action along with excellent collaboration, problem-solving skills, and a strong sense of ownership.
+
+Required Qualifications
+
+5+ years of software engineering experience.
+
+Experience working on cross-functional teams.
+
+Frontend-focused full-stack experience.
+
+Experience mentoring others, reviewing architectures, and establishing design patterns.
+
+Experience working on time-sensitive projects, balancing multiple stakeholder’s needs with a focus on achieving sustainable results.
+
+Preferred Qualifications
+
+While having the preferred qualifications enhances your candidacy, having all of them is not mandatory. We encourage all interested applicants to apply, even those who may not meet every preferred requirement.
+
+Computer Science or similar degree or equivalent experience.
+
+Experience developing containerized, 12-factor applications.
+
+Experience developing SaaS applications using the Amazon Web Services (AWS) cloud platform.
+
+Production experience with Typescript, React, and/or NextJS.
+
+Experience driving all phases of the development lifecycle: planning, ideation, execution, measuring success, and post-launch maintenance.
+
+Experience working with Microservice and/or Event-based architectures. Experience using SQL to interact with databases.
+
+We're serious about your well-being! As part of our team, full-time employees receive:
+
+100% remote work environment: Working hours to support a healthy work-life balance, ensuring you can meet both professional and personal commitments
+
+Attractive pay and benefits: Full transparency of pay ranges regardless of where you live in the United States
+
+Comprehensive health benefits: Medical, dental, vision, life, disability, and FSA/HSA
+
+401(k) plan access: Start saving for your future
+
+Generous time-off policies: Including 2 company-wide shutdown weeks each year for self-care (for most employees)
+
+Paid parental leave: Available for all parents, including birthing, non-birthing, adopting, and fostering
+
+Employee Assistance Program (EAP): Support for your mental and physical health
+
+New hire home office stipend: Set up your workspace for success
+
+Quarterly department stipend: Fund team-building activities or in-person gatherings
+
+Wellness events and lunch & learns: Explore a variety of engaging topics
+
+Community and employee resource groups: Participate in groups that celebrate employee identity and lived experiences, fostering a sense of community and belonging for all
+
+Discounted programs: Fetch, SmartSpend, Ladder, SoFi
+
+Our team
+
+We believe that diversity, equity, and inclusion are fundamental to our mission of making mental healthcare work for everyone.  We are dedicated to having a culture of inclusion that will support our employees in feeling safe, seen, heard, and valued.
+
+Apply for this Job
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+Powered by 
+Privacy PolicySecurityVulnerability Disclosure
+
+=========================================================================================
+2024/12/02
+Hi Hitesh,
+Thanks for applying to the Sr. Software Engineer - Partnerships (Remote) role! We are delighted that you'd consider joining Rula. The Talent Team will review your application and be in touch if your qualifications match our needs.
+Be well,
+Rula Talent Team
+Curious about what happens next?
+While interview processes may vary, they typically take three weeks and consist of the following:
+Talent Acquisition reviews your application
+An initial screen with a recruiter about Rula, the role, and your experience
+An initial interview or assessment
+A hands-on exercise and a slate of structured interviews
+At the end of your process, we'll send you a survey for your feedback - because we care a LOT about your experience as a candidate!
+Please remember, progression in the interview process is dependent on mutual agreement between you and Rula to move forward in the process.
+
+=========================================================================================
+
+
+

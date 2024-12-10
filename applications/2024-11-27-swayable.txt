@@ -1,0 +1,104 @@
+2024/11/27
+
+
+https://www.swayable.com/
+
+https://job-boards.greenhouse.io/swayable/jobs/4588973007?
+
+from 'welcome to the jungle'
+
+
+Swayable Logo
+Back to jobs
+New
+Senior Engineer: Full-stack Web
+SF, NYC, Remote
+About Swayable
+Swayable is building the world’s leading causal AI platform that measures how advertising moves people’s opinions. Our partners include Amazon, Meta, IBM, DoorDash, Airbnb, MIT, Stanford, and multiple Democratic presidential campaigns. We were founded in 2018 by physics PhDs and are backed by leading technology and social impact investors, including Y Combinator. This position is the perfect opportunity to join a fast-moving, high-impact, mission-driven startup.
+
+Technology stack
+Vue 3 (Nuxt), Tailwind CSS, Node (Express), GraphQL, Mongoose, MongoDB, Cypress, Vitest, Python
+
+About the role
+Swayable is looking for a full-stack web Senior Software Engineer to build, maintain, and enhance our data collection and insights tools. In this role, you will contribute to developing AI-native experiences, creating data-rich visualizations, and leveraging our cutting-edge machine learning analytics engine.
+
+You will play a key role in shaping architecture and advancing development practices while collaborating with a talented, diverse team of engineers, data scientists, and researchers. Together, you’ll design and implement new features and tackle innovative challenges at the intersection of software engineering, data visualization, and data science.
+
+Requirements
+3+ years of experience building web applications using semantic HTML and modern CSS frameworks
+Skilled at writing modern JavaScript (ES2020+) web applications using a component-based framework such as Vue or React
+You thrive in an environment where you collaborate with product and design to craft accessible, intuitive, and delightful user experiences
+Work closely with peers to develop and test code across the web stack
+Excited to learn and work with data visualization frameworks like Highcharts, Chart.js, or D3.js to help communicate complex ideas visually
+You enjoy facilitating architectural discussions and helping the team align on thoughtful, inclusive technical decisions
+You value using data to guide decisions, ensuring diverse sources and perspectives are included and considered
+Curious and open to exploring new technologies like generative AI, with a mindset focused on continuous learning and adaptation
+Appreciate the value of giving and receiving feedback which is constructive and well-informed, and are committed to fostering an environment where everyone can grow and contribute meaningfully
+You believe that empathy and trust are at the heart of a great team, and a great team is at the heart of building great software
+You are a collaborative communicator, skilled at breaking down complex ideas into accessible concepts, writing thoughtful documentation, and helping stakeholders understand tradeoffs in decision-making
+Familiar with effective development environments which include command line tools, git, advanced IDEs, and AI-assistance  
+Prioritize writing clear and maintainable code, creating intuitive systems with clear separation of concerns, utilizing Gang of Four design patterns and Twelve-Factor Application development practices
+Bachelor's degree (or higher), extensive professional training, or equivalent work experience in Computer Science, Engineering, or a related technical field
+Preferred qualifications
+Experience building products with rich user-facing analytics and insights
+Vue.js and MongoDB
+Background in scientific research or methodologies
+Successful technical mentoring
+Salary range: $130k-$190k
+
+Apply for this job
+*
+
+indicates a required field
+
+First Name*
+Hitesh
+Last Name*
+Lala
+Email*
+hiteshlala@gmail.com
+Phone
+5103262974
+Resume/CV*
+HiteshLalaResume.pdf
+
+
+Cover Letter
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Education
+
+School
+Select...
+
+Degree
+Select...
+
+Discipline
+Select...
+
+Add another
+Github
+LinkedIn
+Powered by
+
+Read our Privacy Policy
+
+=========================================================================================
+
+2024/11/27
+Hitesh,
+
+Thanks for applying to Swayable. Your application has been received and we will review it right away.
+
+If your application seems like a good fit for the position we will contact you soon.
+
+Regards,
+Swayable
+
+** Please note: Do not reply to this email. This email is sent from an unattended mailbox. Replies will not be read.
+
+=========================================================================================
+

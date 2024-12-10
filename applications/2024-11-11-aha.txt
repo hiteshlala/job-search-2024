@@ -1,0 +1,191 @@
+2024/11/11
+
+https://www.aha.io/company/careers/current-openings/front-end-developer-remote?
+
+---
+
+Products
+Solutions
+Pricing
+Resources
+Company
+Log in
+Free trial
+Join a demo
+Sr. Front End Engineer
+Apply now
+Engineering
+New Zealand, North America, South America
+Share job on LinkedIn
+
+Engineering at Aha!
+Aha! is the world's #1 product development software. We help over 1 million product builders bring their strategy to life. Our suite of tools includes Aha! Roadmaps, Aha! Ideas, Aha! Whiteboards, Aha! Knowledge, and Aha! Develop. Product teams rely on our expertise, guided templates, and training programs via Aha! Academy to be their best. We are proud to be a very different type of high-growth SaaS company. The business is self-funded, profitable, and 100% remote. We are recognized as one of the best fully remote companies to work for, champion the Bootstrap Movement, and have given over $1M to people in need through Aha! Cares. Learn more at www.aha.io.
+
+Our team
+Aha! engineering is a mid-sized, fully remote team that is highly productive. We are centered around North American time zones so we can collaborate during the workday.
+
+We help each other grow: We each bring unique skills to the table and want our teammates to feel valued from the start. Our onboarding program exposes new hires to the codebase and lets them contribute right away.
+
+We move quickly: We ship code multiple times a day. We believe in getting valuable features in front of customers and iteratively improving as we learn what works and what does not.
+
+We value product over process: We want the team to have the time and focus on solving complex challenges. We minimize the overhead by setting clear goals and avoiding heavyweight processes and excessive meetings.
+
+We share knowledge freely: We share our learnings with each other and with the developer community. Our engineering blog demonstrates how we tackle interesting challenges at Aha!
+
+We enjoy: We like what we do. And we want you to love your team and your job too. Learn more about The Responsive Method, our company values, and the generous benefits we offer.
+
+Our technology
+Our web application is a single-instance, multi-tenant Ruby on Rails monolith supported by Postgres (database), Redis (background jobs), and memcached (Rails caching). We also run a Node.js webserver to support collaborative editing and real-time updates. Our application is hosted on Amazon Web Services and architected with ECS for reproducibility and scalability.
+
+We use React for rich client-side experiences on the front end. Some of the features we have built with React include:
+
+Our fully collaborative text editor: Supports multiple cursors and simultaneous editing by any number of users. We pride ourselves in the underlying technology.
+
+Our presentation editor: Allows users to create presentations with slide themes, shapes, text, and embedded Aha! reports that update live so the presentation is always current
+
+Our Gantt chart: Supports scaling and scrolling to change the timeline, drag-and-drop, and quick actions to create records or sort the bars
+
+We embrace new technologies that help us deliver a lovable product, but we also remain cognizant of the maintenance overhead that a new library or platform brings. We solve the problems in front of us, rather than prematurely optimizing to address issues that may never materialize.
+
+We do most of our planning and collaboration in Aha! Roadmaps and built Aha! Develop so that software engineers and their teams could take advantage of those same rich features. We use Slack and Zoom for video calls. (Email? Rarely.)
+
+Your experience
+All of our engineers work across the full stack. As a Sr. Front End Engineer, you will spend the majority of your time working with React or HTML/CSS. You will also write significant back end code in Ruby on Rails to support the front end features you are building.
+
+We believe that being a kind person who elevates the rest of the team is just as valuable as writing great code. You have strong problem-solving skills and experience working on important functionality for a cloud-based product. You are humble, eager to learn, and always willing to help others learn as well. You want teammates who enjoy solving problems regardless of the technologies and techniques involved. You have worked at meaningful scale before and want to do so again. You also have the below experience and skills:
+
+Two+ years of experience working in React
+
+Producing scalable, data-intensive React pages
+
+Experience building features (ideally at a high-growth SaaS company)
+
+Active collaborator with product teams
+
+Your work at Aha!
+We work on a broad range of features across the full stack. As a Sr. Front End Engineer, your work will include:
+
+Implementing new features for our users, touching each layer of the MVC as needed
+
+Building deeply interactive reporting interfaces using React
+
+Working proactively with product and UX to refine and iterate on specifications as the feature takes shape
+
+Optimizing browser performance on screens and components that render large quantities of data to ensure Aha! is snappy and satisfying to use
+
+Interfacing directly with users to quickly squash bugs as part of our regular customer support rotation
+
+Documenting components in our style guide to help drive consistency
+
+If this role sounds appealing, we would love to hear from you. (A real human reviews every application.)
+
+Grow with us
+Everyone deserves to reach their fullest potential. We know that when we do work that matters with people we care about in a high-growth environment, we feel engaged and alive. It is why we joined Aha! and how we achieve our very best.
+
+We offer all the benefits you would expect and more, including profit sharing. The specific benefits listed below are reflective of what we offer U.S.-based hires. We also do our best to extend identical benefits to international teammates.
+
+The base salary range for this role in the U.S. is between $110,000 and $190,000
+
+Cash-based compensation also includes profit sharing, and we contribute a percentage of your total pay each month toward your retirement
+
+Medical, dental, and vision plans (for many teammates, we cover 100% of the premiums)
+
+Up to 200 hours of paid time off a year to spend however you want
+
+30 to 90 days of paid parental leave and five to 10 days of paid care and bereavement leave
+
+Up to $1,000 annually for third-party education, along with paid time off to immerse yourself in learning
+
+Volunteer opportunities throughout the year
+
+Base salary and total compensation are dependent upon many factors, including skills, experience, and relevant past roles.
+
+Apply now
+We are building a distributed team, and you can work from anywhere in New Zealand, North America, or South America for this role. We offer generous salary, equity, benefits, and a profit-sharing program. See other openings at Aha!
+
+Diversity
+We are committed to hiring, promoting, and compensating employees based on their qualifications and demonstrated ability to perform job responsibilities. As an equal opportunity employer, Aha! welcomes all employees and applicants, without regard to age, race, color, national origin, physical or mental disability, gender, religion, sexual orientation, gender identity, marital or veteran status, condition of pregnancy, or any other legally protected characteristic. Learn more about diversity and inclusion at Aha!
+
+Lovability book
+Find out what makes us different. It's Lovability.
+Read the bestselling book by Aha! co-founder and CEO Brian de Haaff.
+
+
+Build lovable products
+Try Aha! software for free
+Start free trialJoin a demo
+Products
+Product overview
+Aha! Roadmaps
+Aha! Ideas
+Aha! Whiteboards
+Aha! Knowledge
+Aha! Develop
+Aha! Academy
+Pricing
+Integrations
+Company
+About us
+History
+Team
+Careers
+Diversity
+Benefits
+Aha! Cares
+Bootstrap Movement
+Lovability — the book
+Resources
+Aha! blog
+Engineering blog
+Live events
+How-to videos
+Templates
+Product management guide
+Roadmap starter guide
+Product development dictionary
+Support knowledge base
+Popular links
+The Aha! Framework
+Product success
+Product concierge
+Customer stories
+Developer API
+Security and compliance
+Contact us
+Submit a note
+Email support@aha.io
+Provide product feedback
+Sign up for the newsletter
++1 (888) 926-2240
++1 (650) 331-3170
+© 2024 Aha! Labs Inc.•All rights reserved
+Privacy policy
+Terms of service
+
+
+=========================================================================================
+
+Briefly share why you will excel in this role
+
+- I came across this position at "Welcome to the Jungle" website (https://app.welcometothejungle.com).
+- I think that I will excel in this role because of my experience as a frontend developer, being an effective team player, and interest in finding solutions to the types of technical challenges this role presents.
+
+
+Do you have 2+ years of React experience? 
+
+- Yes. I have been working with React for a number of years.  I first started using React during the components as classes phase and now am happy to code using the hooks approach.  I have built or contributed to a number of products that use React as an underlying technology. 
+
+
+Have you worked at a high-growth SaaS company? If not, which industries have you worked in? 
+
+- Yes, all the companies I have worked for offered SaaS products.  At Medallia I added features to a customer experience management product.  At Nurx I worked on a digital health services app that delivered care across the USA.  And at Leica I built cloud based data viewers for 3D point cloud data.
+
+
+What excites you most about this role 
+
+- My favorite frontend technology is React and I love to build interactive products using this tech.  In addition finding solutions to presenting large data inside a browser is a technical challenge that has interested me since my Leica days.
+
+Submitted on 2024/11/11
+
+
+=========================================================================================
