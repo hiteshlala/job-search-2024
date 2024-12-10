@@ -104,7 +104,8 @@ const numImages = 10000;
 
 const img = (num) => `cat_${num}.png`;
 
-const assets = '/Users/hiteshlala/Programming/job-search-2024/full-stack-app-1/static/images';
+const assets = '/Users/hiteshlala/Programming/job-search-2024/full-stack-app-1/frontend/public/images'
+// const assets = '/Users/hiteshlala/Programming/job-search-2024/full-stack-app-1/static/images';
 
 const hash = (password) => {
   const salt = 5897;
