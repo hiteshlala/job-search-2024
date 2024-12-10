@@ -20,7 +20,7 @@ export function createCookieOptions(expires: number = Date.now() + sessionLength
     path: '/',
     overwrite: true,
     signed: false,
-    expires: new Date( expires ), 
+    expires: new Date(expires), 
     sameSite: true,
   };
 }
@@ -36,12 +36,12 @@ async function slide(key: string) {
     const session = await Session.findOne({
       where: { 
         key,
-        expires: { [Op.gt]: `${now - sessionLength}` }
+        expires: { [Op.gt]: now - sessionLength }
       },
     });
 
     if (session) {
-      session.expires = `${now + sessionLength}`;
+      session.expires = now + sessionLength;
       await session.save();
       return session;
     }
@@ -65,11 +65,14 @@ export async function createSession(userName: string, password: string) {
     if (user) {
       const key = crypto.randomUUID();
       const now = Date.now();
+      const expires = now + sessionLength;
       const session = await Session.create({
         key,
         userId: user.id,
-        expires: now + sessionLength,
+        expires,
       });
+      // https://github.com/sequelize/sequelize/issues/1774 annoying
+      session.expires = expires;
       return session;
     }
     else {
@@ -108,9 +111,9 @@ export const sessionMiddleware: RequestHandler = (req, res, next) => {
   } else {
     slide(sessionCookie)
     .then(session => {
-      if ( session ) {
+      if (session) {
         req.session = session;
-        const cookie = createCookieOptions( parseInt(session.expires) );
+        const cookie = createCookieOptions(session.expires);
         res.cookie(sessionCookieName, session.key, cookie);
       }
       else {

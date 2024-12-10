@@ -4,7 +4,7 @@ declare namespace Express {
       id: number;
       key: string;
       userId: number;
-      expires: string;
+      expires: number;
     }
     version: string;
   }

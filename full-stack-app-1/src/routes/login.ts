@@ -15,7 +15,7 @@ login.post('/login', (req, res) => {
     console.log(userName, password, session);
     if (session) {
       req.session = session;
-      const cookie = createCookieOptions(parseInt(session.expires));
+      const cookie = createCookieOptions(session.expires);
       res.cookie(sessionCookieName, session.key, cookie);
       res.send({
         message: 'Logged in successfully',

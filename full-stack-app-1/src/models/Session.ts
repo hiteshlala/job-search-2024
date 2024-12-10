@@ -4,7 +4,8 @@ export default class Session extends Model {
   id: number;
   key: string;
   userId: number;
-  expires: string;
+  // https://github.com/sequelize/sequelize/issues/1774
+  expires: number;
 }
 
 export function initSessions(sequelize: Sequelize) {
@@ -30,7 +31,8 @@ export function initSessions(sequelize: Sequelize) {
         onUpdate: 'CASCADE',
       },
       expires: {
-        type: DataTypes.STRING,
+        type: DataTypes.BIGINT,
+        
       },
     },
     {
