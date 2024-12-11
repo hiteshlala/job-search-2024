@@ -12,7 +12,6 @@ login.post('/login', (req, res) => {
   const { userName, password } = req.body;
   createSession(userName, password)
   .then(session => {
-    console.log(userName, password, session);
     if (session) {
       req.session = session;
       const cookie = createCookieOptions(session.expires);

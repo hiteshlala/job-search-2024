@@ -2,6 +2,7 @@ import express from 'express';
 import cookieParser from 'cookie-parser';
 import { sequelize } from './database';
 import { login } from './routes/login';
+import { user } from './routes/user';
 import { setHeadersMiddleware } from './middleware/setHeaders';
 import { sessionMiddleware } from './middleware/setSession';
 import { uptime } from 'process';
@@ -25,6 +26,7 @@ app.use((req, res, next) => {
 
 
 app.use('/api', login);
+app.use('/api', user);
 app.get('/api/status', (req, res) => {
   res.send({
     version: req.version,

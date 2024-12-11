@@ -4,6 +4,8 @@ export default class User extends Model {
   id: number;
   name: string;
   password: string;
+  getPets: () => any[];
+  pets: any[];
 }
 
 export function initUser(sequelize: Sequelize) {

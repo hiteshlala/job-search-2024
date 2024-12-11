@@ -113,15 +113,13 @@ const hash = (password) => {
 }
 // console.log(hash('this is a string'));
 
-// const users = ['hitesh', 'seema', 'preethi', 'nagin', 'jasu'];
-const users = ['lila'];
+const users = ['hitesh', 'seema', 'preethi', 'nagin', 'jasu'];
 const setupUsers = async () => {
   for(let i = 0; i < users.length; i++) {
     const user = await User.create({
       name: users[i],
       password: hash(users[i]),
     });
-    console.log(user);
   }
 }
 setupUsers().then(() => console.log('setup users')).catch(console.log);

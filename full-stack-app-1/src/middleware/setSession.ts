@@ -25,7 +25,7 @@ export function createCookieOptions(expires: number = Date.now() + sessionLength
   };
 }
 
-function hashPassword(password: string) {
+export function hashPassword(password: string) {
   const salt = 5897;
   return crypto.createHash('sha256').update(`${password}${salt}`).digest('hex');
 }
