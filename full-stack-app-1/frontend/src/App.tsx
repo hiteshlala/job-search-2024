@@ -10,7 +10,23 @@ function App() {
   const [message, setMessage] = useState('');
   const [loggedIn, setLoggedIn] = useState('');
   const [creating, setCreating] = useState(false);
-  const [user, setUser] = useState<User>()
+  const [user, setUser] = useState<User>();
+
+  const refetchUser = () => fetch(
+    '/api/user',
+    {
+      method: 'GET',
+      headers: {
+        'Content-Type': 'application/json;charset=UTF-8',
+        'Accept': 'application/json'
+      },
+    }
+  )
+  .then(r => r.json())
+  .then(r => {
+    setUser(r.user);
+  })
+  .catch(e => setMessage(e.message || 'error'));
 
   useEffect(() => {
     console.log(document.cookie);
@@ -26,21 +42,7 @@ function App() {
 
   useEffect(() => {
     if (loggedIn) {
-      fetch(
-        '/api/user',
-        {
-          method: 'GET',
-          headers: {
-            'Content-Type': 'application/json;charset=UTF-8',
-            'Accept': 'application/json'
-          },
-        }
-      )
-      .then(r => r.json())
-      .then(r => {
-        setUser(r.user);
-      })
-      .catch(e => setMessage(e.message || 'error'));
+      refetchUser();
     }
   }, [loggedIn]);
 
@@ -95,7 +97,7 @@ function App() {
         <div><img className='logo' src={logo} /></div>
         <div>Rent a Cat</div>
         <div className='stretch'></div>
-        {loggedIn && <div><button onClick={logout}>Logout</button></div>}
+        {loggedIn && <div><button onClick={logout}>Logout {user?.name}</button></div>}
       </header>
       <div className="">
         {!loggedIn && !creating && <Login login={logIn} />}
@@ -110,7 +112,7 @@ function App() {
             <div>{message}</div>
           </div>
         )}
-        <Landing user={user} />
+        <Landing user={user} refetchUser={refetchUser}/>
       </div>
     </>
   )

@@ -16,7 +16,7 @@ export const sessionCookieName = 'rent-a-cat';
 
 export function createCookieOptions(expires: number = Date.now() + sessionLength) {
   return {
-    httpOnly: true,
+    httpOnly: false,
     path: '/',
     overwrite: true,
     signed: false,

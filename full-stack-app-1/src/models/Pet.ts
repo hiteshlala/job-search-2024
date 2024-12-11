@@ -1,6 +1,13 @@
 import { DataTypes, Model, Sequelize } from 'sequelize'
 
-export default class Pet extends Model {}
+export default class Pet extends Model {
+  id: number;
+  name: string;
+  userId: number;
+  images: string[];
+  age: number;
+  description: string;
+}
 
 export function initPets(sequelize: Sequelize) {
   Pet.init(

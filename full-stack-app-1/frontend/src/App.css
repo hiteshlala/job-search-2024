@@ -69,3 +69,36 @@
 .stretch {
   flex-grow: 1;
 }
+
+.pets {
+  max-width: 700px;
+  margin: 10px auto;
+  text-align: center;
+}
+.pets-card {
+  border: 1px solid #646cffaa;
+  border-radius: 5px;
+  padding: 15px;
+  text-align: center;
+  position: relative;
+  width: 200px;
+}
+
+.pets-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pet-edit-button {
+  border: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  padding: 0px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}

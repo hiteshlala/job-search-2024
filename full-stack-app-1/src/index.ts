@@ -6,6 +6,7 @@ import { user } from './routes/user';
 import { setHeadersMiddleware } from './middleware/setHeaders';
 import { sessionMiddleware } from './middleware/setSession';
 import { uptime } from 'process';
+import { pet } from './routes/pet';
 
 const port = 8500;
 
@@ -27,6 +28,7 @@ app.use((req, res, next) => {
 
 app.use('/api', login);
 app.use('/api', user);
+app.use('/api', pet);
 app.get('/api/status', (req, res) => {
   res.send({
     version: req.version,
