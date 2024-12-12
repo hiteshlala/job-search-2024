@@ -1,0 +1,120 @@
+2024/12/12
+
+https://magic.link/?
+https://job-boards.greenhouse.io/magic/jobs/4388989007?
+
+https://app.welcometothejungle.com/jobs/T1v-Xdgv
+
+
+Magic Logo
+Back to jobs
+Senior Web3 Software Engineer, Frontend
+Remote - United States
+About Magic Labs
+If you’re excited about working on the forefront of chain abstraction, user experience and elevated design, we'd love for you to join our team.
+
+Magic pioneered wallet abstraction in 2018, onboarding over 35 million wallets and 190,000 developers. We helped to create invisible wallet experiences for web3 trailblazers like Polymarket, Helium, WalletConnect and Immutable, as well as Fortune 500 brands like Forbes, Naver and Mattel. We've raised over $80 million from notable investors, including PayPal Ventures, Lightspeed, Placeholder, SV Angel, Naval Ravikant, and Balaji Srinivasan.
+
+Today, Magic operates at the forefront of blockchain innovation, providing cutting-edge infrastructure and developer tooling to everyone building onchain. Our mission is to abstract away all technical complexity, empowering developers to create accessible end-user experiences. We believe every internet user should have access to apps and experiences onchain without the headache of traditional self-custody wallets—and the hassle of navigating siloed blockchain networks.
+
+After setting the standard for wallet abstraction, Magic is on a mission to pioneer the next phase of abstraction: chain abstraction. With so many L1s, L2s and L3s entering the space in addition to new VMs, it’s never been more crucial to solve identity and liquidity fragmentation that spans across chains—this is how we’ll achieve true interoperability and seamless user experiences. Magic is building a unified, cross-chain network that will maximize efficiency and accessibility for developers and users alike. 
+
+The Role
+Magic’s frontend team is responsible for building high-quality, innovative and performant experiences that delight our users. We are looking for a Senior Frontend Engineer who will help us disrupt the world of identity and radically simplify how developers and enterprises implement seamless web3 wallet solutions in their applications - uncompromising on user-experience, reliability, and security.
+
+Among other things, our Senior Frontend Engineer will focus on:
+
+Authentication: you will work closely with product, design, and engineering stakeholders to (i) define requirements, (ii) drive technical decisions, and (iii) implement  world class identity management services which allow customers to seamlessly and securely allow their users to authenticate into their products and manage their identities.
+Architecture: you will collaborate with engineering peers across the organization to push forward measurable improvements to the architecture of all Magic systems, including our SDK and UI/UX components. You will collaborate with peers in writing and reviewing technical designs taking special attention to security and quality of proposed solutions. 
+Federated Identity Service: you will play a pivotal role in shaping the backbone of our federated identity services architecture accessible through our SDK. You will lead initiatives to build out new functionality, improve existing features, and push service quality to the highest level.
+This position is fully remote, and we'd love to see applicants across the US and Canada, with a preference for hybrid NYC talent. Unfortunately, we are unable to sponsor or take over sponsorship (ex., H-1B transfer) of employment visas at this time, and applicants must be authorized to work for any employer in the US or Canada.
+
+You will:
+Empathy with customers, developers, and users who rely on our services
+A passion for improving developer experience and reducing user friction
+Attention to detail and the creativity to bring static mock-ups to life
+Knowledge of security best practices, especially the pitfalls that come with developing secure applications for the web
+An ability to write well-designed, testable, and efficient code while balancing feasibility with ambition
+Knowledge and expertise in following the Agile Software Development Life Cycle
+Strong opinions, loosely held
+You have:
+Ideally 6-8 years experience of working within an agile software development team
+Direct experience working within web3 (including freelancing or side projects)
+Experience using web3 libraries like web3.js, ethers.js, viem, etc. 
+Strong passion for Web3 and blockchain knowledge, ideally Ethereum
+Experience in ES6+ JavaScript (TypeScript experience preferred)
+Experience in CSS preprocessors like LESS or SCSS 
+Experience with Next.js, React, React Hooks, and Redux
+Strong interpersonal skills that demonstrate empathy and the ability to distill technical concepts into digestible pieces
+Working knowledge of webpack or similar tooling
+Bonus points:
+Strong technical writing skills
+Experience developing open source software and developer tools
+Keen awareness of application security, and knowledge of Open Web Application Security Project(OWASP) top 10 vulnerabilities
+Identity and authentication experience
+Wallet and/or web3 experience (domain understanding)
+Why you'll love working with us:
+Remote-first culture with flexible working hours
+Competitive salary with stock options
+99% company-paid medical*, dental and vision insurance; 100% company-paid life and disability insurance
+401(k) plan* (US) or pension plan (CAN)
+$3,600 annual reimbursement for remote work, wellness and professional development
+Flexible time off
+Up to 12 weeks of paid parental leave
+Family planning and reproductive health benefits, including up to $5,000 reimbursement, through Maven*
+*Benefits available to US employees only. Canada healthcare coverage differs.
+
+Salary
+$175,000-$195,000/year
+At Magic, we believe building a team full of diverse perspectives and experiences is vital to success. Therefore, we strongly encourage anyone historically underrepresented in tech to apply for this role. Magic does not discriminate based on gender, sexual orientation, race, religion, citizenship status, age, or physical ability. Empathy, authenticity, and inclusivity are at the core of all we do.
+
+US Candidates: Magic Labs, Inc. participates in E-Verify to confirm the identity and employment eligibility of all new US hires.
+
+Apply for this job
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone
+Resume/CV*
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+Website
+Location
+Select...
+
+Are you based in NYC or Canada?
+
+Will you now, or in the future, require sponsorship to legally work in the US or Canada?*
+Select...
+
+Powered by
+
+Read our Privacy Policy
+
+=========================================================================================
+2024/12/12
+Hi Hitesh!
+
+Thanks for sending your application our way at Magic. 
+
+Your application has landed safely in our review hub. Our hiring crew is all hands on deck, diving into the applications. Over the next few weeks, if your profile catches our eye, one of our friendly recruiters will reach out to chat.
+
+Thanks so much for thinking of Magic as your next adventure. We're genuinely excited to learn more about you!
+
+Stay Magical and take care! 🐰🎩✨
+
+** Quick heads up! This email doesn't accept replies, so they might go unnoticed. Thanks for understanding!
+
+=========================================================================================

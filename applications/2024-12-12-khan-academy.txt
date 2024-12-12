@@ -1,0 +1,136 @@
+2024/12/12
+
+https://www.khanacademy.org/
+https://boards.greenhouse.io/khanacademy/jobs/6258397
+
+https://app.welcometothejungle.com/jobs/KyYFUp8U - not this one but the remote one
+
+Khan Academy Logo
+Apply Now
+Join our Engineering talent community!
+at Khan Academy
+Remote
+ABOUT KHAN ACADEMY
+
+Khan Academy is a nonprofit with the mission to deliver a free, world-class education to anyone, anywhere. Our proven learning platform offers free, high-quality supplemental learning content and practice that cover Pre-K - 12th grade and early college core academic subjects, focusing on math and science. We have over 155 million registered learners globally and are committed to improving learning outcomes for students worldwide, focusing on learners in historically under-resourced communities.
+
+OUR COMMUNITY 
+
+Our students, teachers, and parents come from all walks of life, and so do we. Our team includes people from academia, traditional/non-traditional education, big tech companies, and tiny startups. We hire great people from diverse backgrounds and experiences because it makes our company stronger. We value diversity, equity, inclusion, and belonging as necessary to achieve our mission and impact the communities we serve. We know that transforming education starts in-house with learning about ourselves and our colleagues. We strive to be world-class in investing in our people and commit to developing you as a professional.
+
+THE TEAM
+
+We are a remote-first organization and we strive to build using technology that is best suited to solving problems for our learners. Currently, we build with Go, GraphQL, Typescript, React & React Native, Redux and we adopt new technologies like LLMs when they’ll help us better achieve our goals. At Khan, one of our values is “Cultivate Learning Mindsets”, so for us, it’s important that we’re working with all of our engineers to help match the right opportunity to the right individual, in order to ensure every engineer is operating at their “learning edge”.
+
+You can read about our latest work on our Engineering Blog. A few highlights:
+
+Incremental Rewrites with GraphQL
+Our Transition to React Native
+Go + Services = One Goliath Project
+How Engineering Principles Can Help You Scale
+How to upgrade hundreds of React components without breaking production
+Note: We welcome candidates with experience in any and all technologies. We don’t require experience in any particular language or tool. Our commitment to on-boarding and mentorship means you won’t be left in the dark as you learn new technologies.
+
+WHY JOIN OUR TALENT COMMUNITY? 
+
+If you don't see the right opportunity for you at this moment, but you're interested in being contacted about opportunities that might be a fit, submit your resume! We'll happily reach out when we think there might be a match! 
+
+Apply for this Job* Required
+First Name *
+Last Name *
+Email *
+Phone
+Resume/CV
+Attach Dropbox Google Drive or enter manually
+(File types: pdf, doc, docx, txt, rtf)
+Cover Letter
+Attach Dropbox Google Drive or enter manually
+(File types: pdf, doc, docx, txt, rtf)
+Our mission is "to provide a free world class education to anyone anywhere." Why do you want to apply your engineering skills to this cause? *
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Khan Academy’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Please select
+Are you Hispanic/Latino?
+Please select
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Please select
+Voluntary Self-Identification of Disability
+Form CC-305
+Page 1 of 1
+OMB Control Number 1250-0005
+Expires 04/30/2026
+
+Why are you being asked to complete this form?
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability?
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Disability Status
+Please select
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+Powered by  Greenhouse Logo
+Read our Privacy Policy
+No file chosen
+No file chosen
+
+=========================================================================================
+2024/12/12
+chatgpt blrub;
+Khan Academy is a mission-driven organization dedicated to providing free, world-class education to learners globally, making a real difference in people's lives. Working there means contributing to a meaningful cause that impacts millions. The organization values innovation, inclusivity, and collaboration, offering opportunities to solve complex challenges in education technology alongside passionate and talented colleagues. Additionally, Khan Academy invests in employee growth and well-being, fostering a supportive and engaging work culture. It’s an excellent place to combine purpose with professional development.
+
+my blurb (modified chatgpt):
+
+Working at Khan Academy means contributing to a meaningful cause that impacts millions. I like that you value innovation, inclusivity, and collaboration. Solving the technical challenges upgrading, maintaining, and feature development while still maintaining site usablity provides opportunities for professional developmment.
+
+=========================================================================================
+2024/12/12
+Hello,
+
+Thanks for joining our talent community! We will be in touch regarding upcoming opportunities that might be a match. 
+
+Sincerely,
+The Khan Academy Recruiting Team
+
+=========================================================================================
+
