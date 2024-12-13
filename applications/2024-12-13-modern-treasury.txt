@@ -1,0 +1,117 @@
+2024/12/13
+
+https://www.moderntreasury.com/
+https://jobs.ashbyhq.com/moderntreasury/69b14e0a-5af1-4f30-a47e-c42455211929?
+
+https://app.welcometothejungle.com/jobs/3RFr2VF2
+
+Modern Treasury
+Software Engineer (Senior)
+Location
+San Francisco, New York, Remote
+
+Type
+Full time
+
+Department
+Engineering
+
+Compensation
+$120K – $270K • Offers Equity
+Placement within this range depends upon a variety of factors, including prior experience, skill set and location. Our compensation also includes generous benefits and company equity.
+
+Overview
+Application
+OVERVIEW
+
+This position can be based out of San Francisco, New York, or remote (we accept candidates from many states).
+
+We're looking for Software Engineers to join our Engineering team. In this role, you will build innovative payments products that delight both engineering and finance teams. As an early member of the engineering team, you will help shape the engineering culture of a fast-growing startup.
+
+The core platform at Modern Treasury sits between our customers and their banks. In the same way that Twilio abstracted away the complexity of working with communication networks, we have built an easy-to-use, common interface into the banking system. Our customers use our products to do things like move money to or from their users, automate back-office work, and record their transaction ledgers. The companies that can use Modern Treasury move over $750 trillion a year via bank payments, as compared to only $2 trillion per year on card payments.
+
+Our API is often the most critical piece of infrastructure that our customers use. We place a premium on building robust, scalable systems that can sustain a high volume of API calls and exceed the reliability requirements to move money at scale. We complement this with well-thought out interfaces for our users and pride in writing quality API docs.
+
+We believe in using the best tool for the job, rather than always using open source or building things ourselves. We actively embrace open source in parts of our system but aren't afraid to roll our own solution for things like writing and parsing bank files. We also contribute to open source (for example, https://www.moderntreasury.com/journal/continuous-accounting-building-on-an-open-source-library).
+
+In addition to our API, we have had a web platform since day 1 that is used by accountants, controllers, and engineers. They use our platform to do things like manage payment workflows and monitor their business. As an engineer, you will work with our product team to build products and features for these users.
+
+ABOUT MODERN TREASURY
+
+Modern Treasury is the operating system for money movement. Our payment operations platform combines a suite of APIs and dashboards to help companies unlock new payments revenue, strengthen customer experiences, and drive efficiency through their business. Our end-to-end platform moves enterprises forward with faster payments, efficient workflows, full data visibility, and seamless bank integrations.
+
+WEEK BY WEEK
+
+During your first week you will:
+
+Get to know our leadership, culture, and values
+
+Onboard with the engineering team
+
+Ship your first commit on day 1
+
+Take on 1-2 small tickets to address bugs or make minor improvements
+
+Read our favorite industry primers
+
+During your first six weeks you will:
+
+Ship your first major project
+
+Write your first blog post. We love writing at Modern Treasury (and have been on the front page of Hacker News multiple times with posts like "What Happens When You ACH a Dead Person?" and "How to Build an Insurance Company")
+
+Shadow a few customer and partner meetings every week
+
+During your first six months you will:
+
+Work with our product team to scope and ship products for both our engineering and finance users
+
+Help grow our team by mentoring new engineers, writing internal tooling and documentation, and interviewing new hires
+
+WHAT YOU SHOULD HAVE
+
+5+ years of professional software engineering experience
+
+Experience working with SQL/Relational databases
+
+Experience working with large-scale, high-availability systems
+
+TECHNOLOGIES WE USE
+
+Ruby on Rails for our backend framework
+
+React, GraphQL, and Tailwind CSS on the front end
+
+Postgres for our database
+
+Redis for caching
+
+AWS for infrastructure and hosting
+
+Docker for containerization
+
+GitHub for source code management
+
+Buildkite for continuous integration
+
+Modern Treasury is committed to equal employment opportunity and does not discriminate in any employment opportunities or practices based on an individual's race, color, creed, gender (including gender identity and gender expression), religion (all aspects of religious beliefs, observance or practice, including religious dress or grooming practices), marital status, registered domestic partner status, age, national origin or ancestry (including language use restrictions and possession of a driver’s license issued under California Vehicle Code section 12801.9), natural hair, physical or mental disability, political affiliation, medical condition (including cancer or a record or history of cancer, and genetic characteristics), sex (including pregnancy, childbirth, breastfeeding or related medical condition), genetic information, sexual orientation, military and veteran status or any other consideration made unlawful by federal, state, or local laws. It also prohibits unlawful discrimination based on the perception that anyone has any of those characteristics, or is associated with a person who has or is perceived as having any of those characteristics.
+
+Modern Treasury participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.
+
+Apply for this Job
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+Powered by 
+Privacy PolicySecurityVulnerability Disclosure
+
+=========================================================================================
+2024/12/13
+Hello Hitesh,
+We just received your information for our Software Engineer (Senior) opening.
+
+We really appreciate you taking the time to consider us in your job search. We will review your submission right away and get back to you if we are able to move forward.
+
+Cheers,
+Modern Treasury Talent Team
+
+=========================================================================================

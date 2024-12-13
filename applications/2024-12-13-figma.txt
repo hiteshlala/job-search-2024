@@ -1,0 +1,190 @@
+2024/12/13
+
+https://www.figma.com/login
+https://job-boards.greenhouse.io/figma/jobs/5335427004?gh_jid=5335427004&gh_src=8ecc17d04us
+
+
+https://app.welcometothejungle.com/jobs/a4207pj_
+
+Figma Logo
+Back to jobs
+Software Engineer - Billing
+San Francisco, CA • New York, NY • United States
+Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether it’s consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!
+
+Our Billing Team is a full stack web engineering group automating revenue workflows and building end-to-end payment and billing capabilities for all of Figma’s customers, from two-person teams to the Fortune 500. As an engineer on Billing, your contributions will play a critical role in shaping Figma's success. You will be responsible for key areas such as checkout, invoicing, customer lifecycle, pricing and packaging, and recurring billing. 
+
+Our work is essential for Figma's continuous growth and innovation. Billing engineering plays a key role in each new product launch, and in our ability to expand into new markets, enable our sales team, and accurately report on and forecast revenue. You’ll have plenty of opportunities to leverage your existing strengths and learn new skills as the team grows and takes on new challenges.
+
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+
+What you'll do at Figma:
+You will be a key contributor to Figma’s growth as we expand our product offering and evolve our billing model
+You’ll design, build, test, and ship a smooth payment and billing experience for all of Figma’s customers using a wide variety of technologies and systems
+You will work collaboratively with partners across the business to ensure accuracy in revenue reporting and forecasting, and adherence to compliance and regulatory requirements
+We’d love to hear from you if you have:
+5+ years of experience as a software engineer
+A proven track record of building, scaling, and shipping high-quality products in high growth environments
+The ability to work across the stack to craft great experiences and solve problems for customers and the business
+Strong collaboration and communication skills (we’re a distributed team with a mix of hybrid and full-time remote folks)
+A love of data modeling and API design problems
+Strong operational excellence and ownership of the projects you lead: You test, measure, and monitor what you ship and you’re the first to notice when something is off
+While it’s not required, it’s an added plus if you also have:
+Experience building B2B billing solutions and/or products in the payments space
+A working knowledge of revenue recognition, global tax, and/or finance concepts
+Expertise with Ruby, TypeScript, React, PostgreSQL, and/or Snowflake
+Familiarity with Stripe, Salesforce, and/or NetSuite
+Experience working in complex, distributed systems with high correctness and low latency requirements
+ 
+
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+Pay Transparency Disclosure
+
+If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below.  
+
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information. 
+
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental & vision, retirement with company contribution, parental leave & reproductive or family planning support, mental health & wellness benefits, generous PTO, company recharge days, a learning & development stipend, a work from home stipend, and cell phone reimbursement.  Figma also offers sales incentive pay for most sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future. You may view our Pay Transparency Policy by clicking on the corresponding link.
+
+Annual Base Salary Range (SF/NY Hub):
+
+$149,000 - $350,000 USD
+
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities. 
+
+Examples of accommodations include but are not limited to: 
+
+Holding interviews in an accessible location
+Enabling closed captioning on video conferencing
+Ensuring all written communication be compatible with screen readers
+Changing the mode or format of interviews 
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figma's Privacy Policy.
+
+Apply for this job
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone*
+Resume/CV*
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+Other Website
+Why do you want to join Figma?*
+Please share 3-4 sentences on why you want to join Figma
+
+Pronouns
+Select...
+
+If you'd like to, please let us know your pronouns.
+
+Additional Information
+Add a cover letter or anything else you'd like to share
+
+From where do you intend to work? *
+Please list city and state. (ie: San Francisco, CA) 
+
+Preferred First Name
+Are you authorized to work in the country for which you applied? *
+Select...
+
+Have you ever worked for Figma before, as an employee or a contractor/consultant? *
+Select...
+
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Figma’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Select...
+
+Are you Hispanic/Latino?
+Select...
+
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Select...
+
+Voluntary Self-Identification of Disability
+Form CC-305
+Page 1 of 1
+OMB Control Number 1250-0005
+Expires 04/30/2026
+
+Why are you being asked to complete this form?
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability?
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Disability Status
+Select...
+
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+Powered by
+
+Read our Privacy Policy
+
+
+=========================================================================================
+2024/12/13
+my blurb:
+Working at Figma means being part of a company that values creativity, inclusivity, and teamwork, while also pushing the boundaries of design and technology. I'll have the opportunity to solve meaningful problems for a global user base and collaborate with some of the most talented professionals in the industry. 
+
+=========================================================================================
+2024/12/13
+Hi Hitesh,
+ 
+Thank you for your interest in Figma! We wanted to let you know we received your application for Software Engineer - Billing, and we are delighted that you would consider joining our team.
+ 
+While we’re not able to respond to every applicant, our recruiting team will contact you if your skills and experience are a strong match for the role. If you are not selected for this position, keep an eye on our jobs page as we’re growing and adding openings.
+ 
+Best,
+The Figma Team
+
+=========================================================================================

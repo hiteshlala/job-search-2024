@@ -1,0 +1,242 @@
+2024/12/13
+
+https://webflow.com/?
+https://boards.greenhouse.io/webflow/jobs/6375259?
+
+https://app.welcometothejungle.com/jobs/xFYbS1op
+
+
+Apply Now
+Senior Software Engineer, Design Systems
+at Webflow (View all jobs)
+U.S. Remote
+At Webflow, our mission is to bring development superpowers to everyone. Webflow is a Website Experience Platform (WXP) that empowers modern marketing teams to visually build, manage, and optimize stunning websites. With AI-driven personalization baked in, Webflow enables teams to significantly boost conversion rates, translating directly into measurable business growth. From independent designers and creative agencies to Fortune 500 companies, millions worldwide use Webflow to be more nimble, creative, and collaborative.
+
+We’re looking for a Senior Software Engineer to help us build and maintain Webflow’s internal Design System, Spring, which powers the design language and guidelines for UI components, icons, accessibility, content, and interactions across multiple Webflow applications.  Our goal is to improve efficiency throughout our software development life cycle and provide consistency across our application , work that's foundational to Webflow's ability to scale products and systems to these millions of users across the globe. In this role, you’ll play a major role in building, improving, planning, and evangelizing Spring!
+
+About the role
+Location: Remote-first (United States; BC & ON, Canada)
+Full-time
+Permanent
+Exempt
+The cash compensation for this role is tailored to align with the cost of labor in different geographic markets. We've structured the base pay ranges for this role into zones for our geographic markets, and the specific base pay within the range will be determined by the candidate’s geographic location, job-related experience, knowledge, qualifications, and skills.
+United States  (all figures cited below are in USD and pertain to workers in the United States)
+Zone A: $158,000 - $218,000
+Zone B: $149,000 - $205,000
+Zone C: $139,000 - $192,000
+Canada (figures cited below are in CAD and pertain to workers in ON & BC, Canada)
+CAD 180,000 - CAD 248,000
+Please visit our Careers page for more information on which locations are included in each of our geographic pay zones. However, please confirm the zone for your specific location with your recruiter.
+
+Reporting to the Senior Manager, Engineering 
+As a Senior Software Engineer, you’ll … 
+
+Build and maintain Webflow’s internal design system and related entities, including (but not limited to): Component UI library, usage guidelines & documentation, icons, Storybook, and styling system
+Author and maintain UI components that are scalable, performant, accessible, and consistent
+Work closely with cross-functional teams to ensure the success and adoption of the design system
+Develop and execute strategies to migrate legacy systems to our modern systems, overcoming roadblocks as necessary
+Lead and participate in team discussions focused on design systems
+Solve problems in a highly technical platform that empowers hundreds of thousands of people
+Improve our planning, development, and deployment processes to help you and your fellow team members
+In addition to the responsibilities outlined above, at Webflow we will support you in identifying where your interests and development opportunities lie and we'll help you incorporate them into your role.
+
+About you
+You’ll thrive as a Senior Software Engineer if you:
+
+Have 5+ years of experience working as a FE/UI engineer and 1-2+ years experience with Design Systems
+Are proficient in advanced React and CSS patterns
+Have a proven track record of successfully launching and driving adoption of design systems
+Have experience working with a fast paced, highly collaborative, and cross-functional team
+Are comfortable working cross-team to provide UI/UX suggestions and consistency across product areas
+Treat web accessibility as a top priority
+Enjoy discussing the details and driving solutions that improve the usability and quality of the system
+Our Core Behaviors:
+Obsess over customer experience. We deeply understand what we’re building and who we’re building for and serving. We define the leading edge of what’s possible in our industry and deliver the future for our customers
+Move with heartfelt urgency. We have a healthy relationship with impatience, channeling it thoughtfully to show up better and faster for our customers and for each other. Time is the most limited thing we have, and we make the most of every moment
+Say the hard thing with care. Our best work often comes from intelligent debate, critique, and even difficult conversations. We speak our minds and don’t sugarcoat things — and we do so with respect, maturity, and care
+Make your mark. We seek out new and unique ways to create meaningful impact, and we champion the same from our colleagues. We work as a team to get the job done, and we go out of our way to celebrate and reward those going above and beyond for our customers and our teammates
+Benefits & wellness
+Equity ownership (RSUs) in a growing, privately-owned company
+100% employer-paid healthcare, vision, and dental insurance coverage for employees and dependents (full-time employees working 30+ hours per week), as well as Health Savings Account/Health Reimbursement Account, dependent care Flexible Spending Account (US only), dependent on insurance plan selection where applicable in the respective country of employment; Employees may also have voluntary insurance options, such as life, disability, hospital protection, accident, and critical illness where applicable in the respective country of employment
+12 weeks of paid parental leave for both birthing and non-birthing caregivers, as well as an additional 6-8 weeks of pregnancy disability for birthing parents to be used before child bonding leave (where local requirements are more generous employees receive the greater benefit); Employees also have access to family planning care and reimbursement
+Flexible PTO with a mandatory annual minimum of 10 days paid time off for all locations (where local requirements are more generous employees receive the greater benefit), and sabbatical program
+Access to mental wellness and professional coaching, therapy, and Employee Assistance Program
+Monthly stipends to support health and wellness, smart work, and professional growth
+Professional career coaching, internal learning & development programs
+401k plan and pension schemes (in countries where statutorily required) financial wellness benefits, like CPA or financial advisor coverage
+Discounted Pet Insurance offering (US only)
+Commuter benefits for in-office employees
+Temporary employees are not eligible for paid holiday time off, accrued paid time off, paid leaves of absence, or company-sponsored perks unless otherwise required by law.
+
+Remote, together
+At Webflow, equality is a core tenet of our culture. We are an Equal Opportunity (EEO)/Veterans/Disabled Employer and are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by applicable law. Pursuant to the San Francisco Fair Chance Ordinance, Webflow will consider for employment qualified applicants with arrest and conviction records.
+
+Stay connected
+Not ready to apply, but want to be part of the Webflow community? Consider following our story on our Webflow Blog, LinkedIn, X (Twitter), and/or Glassdoor. 
+
+Please note:
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Upon interview scheduling, instructions for confidential accommodation requests will be administered.
+
+To join Webflow, you'll need a valid right to work authorization depending on the country of employment.
+
+If you are extended an offer, that offer may be contingent upon your successful completion of a background check, which will be conducted in accordance with applicable laws. We may obtain one or more background screening reports about you, solely for employment purposes.
+
+For information about how Webflow processes your personal information, please review Webflow’s Applicant Privacy Notice. 
+
+ 
+
+Apply for this Job* Required
+First Name *
+Last Name *
+Email *
+Phone
+Location (City)
+ Locate me 
+Resume/CV *
+Attach Dropbox Google Drive or enter manually
+(File types: pdf, doc, docx, txt, rtf)
+Cover Letter
+Attach Dropbox Google Drive or enter manually
+(File types: pdf, doc, docx, txt, rtf)
+Preferred Pronouns
+LinkedIn Profile
+Website
+I consent to have my personal information retained *
+Do you live in Mexico City and/or the surrounding 16 boroughs? *
+Voluntary Self Identification
+At Webflow, we are committed to building teams that embrace diversity, equity, inclusion, and belonging. Your participation on these questionnaires will allow our team to understand and improve our DEI efforts more effectively. Questions below are strictly voluntary, and refusal to participate in the survey will not affect your job application in any way. Details will be kept separate from your name and remain anonymous. 
+
+I UNDERSTAND THAT BY ANSWERING VOLUNTARY DEMOGRAPHIC QUESTIONS, I EXPLICITLY CONSENT TO WEBFLOW PROCESSING MY SENSITIVE DEMOGRAPHIC DATA.
+
+What gender identity do you most closely identify with? (Select one)
+  Woman
+  Man
+  Non-Binary
+  Not Specified
+  Transgender
+  Trans Man/Male
+  Trans Woman/Female
+  Gender Fluid
+  Intersex
+  I prefer not to disclose
+Are you a person of transgender experience? (Select one)
+  Yes
+  No
+  I prefer not to disclose
+What sexual orientation do you most closely identify with? (Select one)
+  Asexual
+  Bisexual
+  Gay
+  Heterosexual
+  Lesbian
+  Pansexual
+  Queer
+  Not Specified
+  I prefer not to disclose
+How would you describe your racial/ethnic background? (Select one)
+  American Indian or Alaska Native - A person having origins in any of the original peoples of North and South America (including Central America) and who maintains tribal affiliation or community attachment. This category includes people who indicate their
+  Asian - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including but not limited to: Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietna
+  Black - A person having origins in any of the Black racial groups of Africa. Including people who indicate their race as Black or African American, Caribbean, Kenyan, Nigerian, or Haitian
+  Hispanic or LatinX - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race. The term, "Spanish origin", can be used in addition to "Hispanic or Latino".
+  Native Hawaiian or Other Pacific Islander- A person having origins in any of the original people of Hawaii, Guam, Samoa, or other Pacific Islands. Included but not limited to people who reported their race as Fijian, Guamanian, Chamorro, Marshallese,Nativ
+  Two or More Races - refers to 2 or more races other than White also known as multiracial
+  White - A person having origins in any of the original people of Europe, the Middle East, or North Africa. Included but not limited to people who indicate their race as: White, Irish, German, Italian, Lebanese, Arab, Moroccan, or Caucasian.
+  I do not wish to disclose
+  Not Specified
+What age range do you fall within? (Select one)
+  18-24 years of age
+  25-34 years of age
+  35-44 years of age
+  45-54 years of age
+  55-64+ years of age
+  I prefer not to disclose
+What region do you reside in? (Select one)
+  North America (NORAM)
+  Latin America (LATAM)
+  Europe, Middle East, and Africa (EMEA)
+  Asia Pacific (APAC)
+Are you a veteran or active member of the United States Armed Forces? (Select one)
+  Veteran
+  Not a Veteran
+  I prefer not to disclose
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and lear (Select one)
+  Yes
+  No
+  I prefer not to disclose
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Webflow’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Gender
+Are you Hispanic/Latino?
+Are you Hispanic/Latino?
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Veteran Status
+Voluntary Self-Identification of Disability
+Form CC-305
+Page 1 of 1
+OMB Control Number 1250-0005
+Expires 04/30/2026
+
+Why are you being asked to complete this form?
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability?
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Disability Status
+Disability Status
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+No file chosen
+No file chosen
+
+=========================================================================================
+2024/12/13
+Hi Hitesh!
+
+We’re so happy you decided to apply to Webflow! We know a career search takes time and effort, and we want you to know we will take the time to review your application.
+
+We’ll get back to you if your skills and experiences are a good match for the role. In the meantime, we hope you’ll connect with us on Twitter, Instagram, or with the Webflow product itself!
+
+Warm regards,
+Webflow
+
+=========================================================================================

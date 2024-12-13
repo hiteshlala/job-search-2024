@@ -1,0 +1,237 @@
+2024/12/13
+
+https://humaninterest.com/?
+https://job-boards.greenhouse.io/humaninterest/jobs/6430539?
+
+https://app.welcometothejungle.com/jobs/etjn3Gmo
+
+Back to jobs
+Software Engineer II, Full Stack (Financial Engines)
+United States, Remote
+hi-logo
+
+Human Interest is on a mission to ensure that people in all lines of work have access to retirement benefits. 
+
+Nearly half of all working Americans are not saving enough for their future. Too often it’s because they are employed by a company that doesn’t offer a retirement plan. Human Interest is changing that by making it affordable and accessible for small and medium-sized businesses to offer employees a path to financial independence through retirement savings.
+
+We’re a high-growth tech company changing the retirement industry. We’ve raised more than $700M in primary and secondary financings and are backed by a number of investors. Most recently, this includes funding from Marshall Wace and Baillie Gifford, as well as top investors such as BlackRock, TPG (The Rise Fund), SoftBank, Glynn Capital, NewView Capital, USVP, Wing, Uncork, and more.
+
+Are you ready to join our amazing engineering team?
+
+As an engineering organization, we seek to redefine the retirement services space with software that drives toward an effortless, efficient, scalable and highly reliable cloud based experience. Joining our team requires passion for ownership - after all, this is what enables our users’ success. 
+
+How we do it: 
+
+We value continuous improvement - we care about documentation, security, durability, not just throwing features over the wall.
+We help each other be better engineers - we leave things better than we found it.
+We aspire to collaborate seamlessly - we ensure our software is improving the customer experience
+About the Financial Engines team
+
+The Financial Engines team enables the entire investment and retirement journey for a participant.
+
+Our software systems provide the core functionality for participants to invest money efficiently and accurately, thus enabling them to achieve their target savings with financial security. Additionally our systems provide the core functionality to borrow or withdraw their money when they need it most. 
+
+The Financial Engines team is responsible for the software systems that manage core workflows responsible for investing into funds, managing cash and loans and moving money between accounts. Our goal is to provide participants an effortless experience while ensuring all operations are handled at high scale with accuracy. The Financial Engines transactions encompass the highest volume and most critical workflows in the entire company. Our products provide an investment experience that is highly scalable, accurate, timely and secure.
+
+Our team regularly undertakes projects that are critical to the company's success, often ranking as a top company initiative. We are excited to be growing our team in 2024 to seize new and exciting business opportunities. In 2024 and beyond we will develop new features and services from scratch that cater to the most critical actors in our system including administrators, participants and service partners. These features will enable the success of the company by unlocking new revenue, time savings and cost optimizations. We are one of the teams contributing to offerings that will provide significant new growth for the company.
+
+About You
+
+You are passionate about building highly scalable transaction processing and automation engines. You are knowledgeable about backend software development, cloud infrastructure, performance analysis and scalable database technologies (both SQL and NoSQL). You have strong technical skills in JavaScript or TypeScript, ReactJS, Node.js, GraphQL, and PostgreSQL. You thrive under pressure and are committed to delivering high quality software under deadlines. You are adaptable and embrace working in a quickly changing environment. You demonstrate a strong sense of responsibility and possess the capability to successfully lead projects characterized by unclear requirements. You are a highly collaborative team player who is willing to both learn from as well as coach your teammates. You are committed to continuous learning and improvement.
+
+About the Role
+
+As a highly impactful, hands-on, full stack engineer, you will lead challenging technical projects within the framework of an agile team. You will help build out our next generation horizontally scalable financial engine.  You will collaborate with domain experts to design, build, test, and own systems and processes for servicing 401(k) plans and making our customers happy. As reliability and performance are key to earning our customers’ trust, you will build robust systems that are observable, maintainable, and scalable.
+
+What you get to do every day
+
+Build and maintain business-critical software to process and record customers' retirement savings
+Improve complex processes and systems to make them more robust, higher performance and require less human intervention
+Collaborate with other engineers and stakeholders to share knowledge and build expertise
+Write clean, high-quality code and tests while keeping the system fast and reliable
+Develop and analyze monitors and tests to assess performance, scalability and reliability
+Develop ownership over critical retirement workflows and domains
+Make informed engineering tradeoff decisions
+Delight internal and external stakeholders
+Participate in development life cycle activities like analysis, design, coding, testing and production release
+What you bring to the role
+
+Minimum 5 years of professional experience building and maintaining full stack software
+Experience building scalable technologies
+Strong technical skills in JavaScript or TypeScript, ReactJS, Node.js, GraphQL, and PostgreSQL
+Strong desire to learn, exchange feedback and grow - from our internal legacy and futuristic technical designs, to retirement domains and workflows that are critical for our business
+Ability to think creatively, and share knowledge with others
+Ability to write understandable, testable code with an eye towards maintainability
+Proactive and empathetic mindset - you love to roll up your sleeves to fix problems for our customers
+Completed formal training in computer science related discipline (Bachelors or Masters preferred)
+Why you will love working at Human Interest
+
+Mission - Highly collaborative startup dedicated to supporting employee engagement and growth. It’s an opportunity to help solve one of the biggest unsolved problems in America: saving for retirement.
+
+Culture - Our operating principles define how we come together as a team to do our work. They reflect Human Interest’s unique view on what’s important and what’s right. Documenting this core aspect of our culture helps employees make good decisions on their own. It also helps candidates considering career opportunities critically evaluate whether they will thrive at Human Interest. 
+
+Customer obsession
+Long-term orientation
+Autonomous and accountable teams
+An escalating bar for talent and performance 
+Fundamental optimism 
+Compensation - At Human Interest, there are a number of factors that are used to determine the appropriate pay range for each position. We take into account the cost of labor for each position in various markets across the US. The base salary for this position spans $160,000 - $185,000 and represents the minimum in our lowest geographic region to a maximum in our highest geographic region. The salary that we offer to a new employee within this range is based on their location within the US, their relevant job-related skills, and experience. At Human Interest, base salary is one component of the overall Total Rewards package. Depending on the position, additional compensation components such as bonus, commission, and equity may be offered. All of our employees are offered a robust suite of physical, financial and mental wellness benefits.
+
+Benefits - 
+
+A great 401(k) plan: Our own! Our 401(k) includes a dollar-for-dollar employer match up to 4% of compensation (immediately vested) and $0 plan fees
+Top-of-the-line health plans, as well as dental and vision insurance
+Generous PTO and parental leave policies
+Addition Wealth - Unlimited access to digital tools, financial professionals, and a knowledge center to help you understand your equity and support your financial wellness
+Lyra - Enhanced Mental Health Support for Employees and dependents  
+Carrot - Fertility healthcare and family forming benefits
+Candidly - Student loan resource to help you and your family plan, borrow, and repay student debt
+Monthly work-from-home stipend; quarterly lifestyle stipend
+Employee Resource Groups including Veterans, Lift Ev’ry Voice, Pride, LatinX, Families, and Women in Tech
+Fun online and regional events and celebrations and department and company offsites
+The vast majority of our positions can be 100% remote
+We’re a great place to work (but don’t take our word for it) 
+
+Here’s a list of our awards and accolades:
+
+Certified as a Great Place To Work® (2023-2024)
+Fortune Best Place to Work in the Bay Area (2024)
+Best Places to Work by Built In (2023-2024)
+America’s Best Startup Employers by Forbes (2020-2022, 2024) 
+A Top Company by Y Combinator (2020-2023)
+Inc. Fastest Growing Companies (2021)
+ 
+
+Human Interest is an equal opportunity employer. All applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran or military status, pregnancy, or any other characteristics protected under federal, state, or local laws.
+
+We are committed to making every stage of our application process fully accessible to all individuals. If you need a reasonable accommodation at any point in the process, please let us know at applicantaccommodations@humaninterest.com.
+
+Please note Human Interest does not accept unsolicited resumes from any source other than directly from candidates. We will not consider resumes from vendors including and without limitation search firms, staffing agencies, fee-based referral services, and recruiting agencies. 
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider employment-qualified applicants with arrest and conviction records. We comply with CCPA guidelines.
+
+See more: https://humaninterest.com/disclosures
+
+Create a Job Alert
+
+Interested in building your career at Human Interest? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachNo file chosen
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Are you legally authorized to work in the United States?*
+Select...
+
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status, etc)?*
+Select...
+
+How did you hear about this job? If you were referred, please provide the employee's name.*
+LinkedIn Profile URL*
+Do you know anyone who currently works at Human Interest? If so, please provide the employee's name.*
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Human Interest’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Select...
+
+Are you Hispanic/Latino?
+Select...
+
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Select...
+
+Voluntary Self-Identification of Disability
+Form CC-305
+Page 1 of 1
+OMB Control Number 1250-0005
+Expires 04/30/2026
+
+Why are you being asked to complete this form?
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability?
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Disability Status
+Select...
+
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+Powered by
+
+Read our Privacy Policy
+
+=========================================================================================
+2024/12/13
+Hi Hitesh,
+
+Thank you for your application for the Software Engineer II, Full Stack (Financial Engines) role here at Human Interest.
+
+We're looking for smart, motivated, flexible, fun-loving people eager to roll up their sleeves and help us achieve our high-stakes mission: ensuring that people in all lines of work have access to retirement benefits. 
+
+So what’s next? Our Talent team is working hard to review all applications and we will be in touch if we'd like to schedule an interview. Candidate communications are occasionally delivered to spam folders so be sure to check your spam folder if you have not received a note from us. In the meantime, we encourage you to:
+
+Explore www.humaninterest.com to learn more about our story, our customers, and our mission.
+Follow us on LinkedIn. 
+
+Cheers,
+People & Talent @ Human Interest
+Join our team
+
+=========================================================================================
