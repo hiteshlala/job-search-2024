@@ -4,7 +4,7 @@ export default class Pet extends Model {
   id: number;
   name: string;
   userId: number;
-  images: string[];
+  image: string;
   age: number;
   description: string;
 }
@@ -31,22 +31,17 @@ export function initPets(sequelize: Sequelize) {
         onDelete: 'CASCADE',
         onUpdate: 'CASCADE',
       },
-      images: {
-        type: DataTypes.ARRAY(DataTypes.STRING),
-        defaultValue: [],
-        validate: {
-          validateIsArray(value) {
-            if (!Array.isArray(value)) {
-              throw new Error('Images must be an array of strings');
-            }
-          },
-        },
+      image: {
+        type: DataTypes.STRING,
+        defaultValue: '',
       },
       age: {
         type: DataTypes.INTEGER,
+        defaultValue: 0,
       },
       description: {
         type: DataTypes.STRING,
+        defaultValue: '',
       },
       checkedOutBy: {
         type: DataTypes.INTEGER,

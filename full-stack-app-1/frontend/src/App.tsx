@@ -29,7 +29,6 @@ function App() {
   .catch(e => setMessage(e.message || 'error'));
 
   useEffect(() => {
-    console.log(document.cookie);
     document.cookie.split(';').map(cookie => {
       const [key, val] = cookie.split('=');
       if ( /rent-a-cat/.test(key) ) {

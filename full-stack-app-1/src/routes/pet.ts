@@ -1,5 +1,24 @@
 import express from 'express';
+import multer from 'multer';
+import path from 'node:path';
 import Pet from '../models/Pet';
+
+const imageFolderPath = 'images';
+
+const storage = multer.diskStorage({
+  destination: (req, file, cb) => {
+    cb(null, imageFolderPath);
+  },
+
+  filename: (req, file, cb) => {
+    const originalName = path.parse(file.originalname).name;
+    const extension = path.extname(file.originalname);
+    const filename = `${originalName}-${crypto.randomUUID()}${extension}`;
+    cb(null, filename);
+  }
+});
+
+const multyPartFile = multer({ storage });
 
 export const pet = express.Router();
 
@@ -13,7 +32,7 @@ pet.use((req, res, next) => {
   }
 });
 
-pet.post('/pet', (req, res) => {
+pet.post('/pet', multyPartFile.single('image'), (req, res) => {
   const { name, age, description } = req.body;
   if (name) {
     Pet.create({
@@ -21,7 +40,7 @@ pet.post('/pet', (req, res) => {
       name: name,
       age: age || 0,
       description: description || 0,
-      // images to come
+      image: req.file?.path || '',
     })
     .then(pet => {
       res.send({
@@ -61,7 +80,7 @@ pet.get('/pet/:id', (req, res) => {
   });
 });
 
-pet.put('/pet/:id', (req, res) => {
+pet.put('/pet/:id', multyPartFile.single('image'), (req, res) => {
   const { name, age, description } = req.body;
   Pet.findOne({
     where: {
@@ -72,6 +91,9 @@ pet.put('/pet/:id', (req, res) => {
     pet.name = name;
     pet.age = age || 0;
     pet.description = description || '';
+    if (req.file) {
+      pet.image = req.file.path;
+    }
     return pet.save();
   })
   .then(() => {

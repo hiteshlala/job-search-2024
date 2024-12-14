@@ -49,7 +49,7 @@ user.get('/user', (req, res) => {
       user.password = undefined;
       const pets = _pets.map((pet) => ({ 
         id: pet.id,
-        images: pet.images,
+        image: pet.image,
         name: pet.name,
         age: pet.age,
         description: pet.description,

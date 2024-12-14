@@ -104,7 +104,7 @@ const numImages = 10000;
 
 const img = (num) => `cat_${num}.png`;
 
-const assets = '/Users/hiteshlala/Programming/job-search-2024/full-stack-app-1/frontend/public/images'
+const assets = '/Users/hiteshlala/Programming/job-search-2024/full-stack-app-1/images';
 // const assets = '/Users/hiteshlala/Programming/job-search-2024/full-stack-app-1/static/images';
 
 const hash = (password) => {
@@ -122,7 +122,7 @@ const setupUsers = async () => {
     });
   }
 }
-setupUsers().then(() => console.log('setup users')).catch(console.log);
+// setupUsers().then(() => console.log('setup users')).catch(console.log);
 
 const createSomePets = async () => {
   for(let i = 0; i < users.length; i++) {
@@ -156,7 +156,7 @@ const test = async () => {
   // console.log(user);
 
   const pets = (await user.getPets()).map((pet) => ({ 
-    images: pet.images,
+    image: pet.image,
     name: pet.name,
     age: pet.age,
     description: pet.description,

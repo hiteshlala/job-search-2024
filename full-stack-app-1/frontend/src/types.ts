@@ -1,6 +1,6 @@
 export type Pet = {
   id: number;
-  images: string[];
+  image: string;
   name: string;
   age: number;
   description: string;

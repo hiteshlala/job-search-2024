@@ -3,6 +3,7 @@ import cookieParser from 'cookie-parser';
 import { sequelize } from './database';
 import { login } from './routes/login';
 import { user } from './routes/user';
+import { image } from './routes/image';
 import { setHeadersMiddleware } from './middleware/setHeaders';
 import { sessionMiddleware } from './middleware/setSession';
 import { uptime } from 'process';
@@ -25,6 +26,7 @@ app.use((req, res, next) => {
   next()
 });
 
+app.use('/images', image);
 
 app.use('/api', login);
 app.use('/api', user);

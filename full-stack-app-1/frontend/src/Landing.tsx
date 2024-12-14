@@ -1,6 +1,7 @@
+import { ChangeEvent, useEffect, useState } from 'react';
 import { Pet, User } from './types';
 import { Pencil } from './Pencil';
-import { useEffect, useState } from 'react';
+import logo from './assets/icon.png';
 
 type Props = {
   user: User | undefined;
@@ -14,6 +15,7 @@ export const Landing = ({ user, refetchUser }: Props) => {
   const [age, setAge] = useState(0);
   const [description, setDescription] = useState('');
   const [petName, setPetName] = useState('');
+  const [petImg, setPetImg] = useState<File>();
 
 
   useEffect(() => {
@@ -34,23 +36,26 @@ export const Landing = ({ user, refetchUser }: Props) => {
     setAge(0);
     setDescription('');
     setPetName('');
+    setPetImg(undefined);
   };
 
   const updatePet = async () => {
-    console.log('update pet');
+    const body = new FormData();
+    body.append('name', petName );
+    body.append('age', `${age}`);
+    body.append('description', description);
+    if (petImg) {
+      body.append('image', petImg);
+    }
+    
     fetch(
       `/api/pet/${editing}`,
       {
         method: 'PUT',
         headers: {
-          'Content-Type': 'application/json;charset=UTF-8',
           'Accept': 'application/json'
         },
-        body: JSON.stringify({
-          name: petName,
-          age,
-          description,
-        }),
+        body,
       }
     )
     .then(r => r.json())
@@ -59,6 +64,12 @@ export const Landing = ({ user, refetchUser }: Props) => {
       return refetchUser();
     })
     .catch(console.error);
+  };
+
+  const addImgFile = (event: ChangeEvent<HTMLInputElement>) => {
+    if( event.target.files && event.target.files[0]) {
+      setPetImg(event.target.files[0]);
+    }
   };
 
   return !user ? null : (
@@ -74,18 +85,22 @@ export const Landing = ({ user, refetchUser }: Props) => {
           };
           return (
             <div key={`pet-${pet.id}-${j}`} className='pets-card'>
-              <div>{
-                pet.images.map((img, i) => {
-                  return <img src={img} width="150px" key={`pet-${pet.id}-image-${i}`} />
-                })
-              }</div>
               {(editing !== pet.id) && <div>
+                <div> 
+                  {!!pet.image && <img src={pet.image} width="150px" />}
+                  {!pet.image && <img src={logo} width="150px" height="150px"/>}
+                </div>
                 <div><b>{pet.name}</b></div>
                 <div>{pet.description || 'no description'}</div>
                 <div>{pet.age} years old</div>
                 <button className='pet-edit-button' onClick={editPet}><Pencil width='12px' /></button>
               </div>}
               {(editing === pet.id) && <div>
+                <div>
+                  <div className='image-upload-dropzone'>
+                    <input type="file" id="file" accept="*" onChange={addImgFile} multiple={false}/>
+                  </div>
+                </div>
                 <div><input type="text" onChange={(e) => setPetName(e.target.value)} value={petName} placeholder='Pets Name'/></div>
                 <div><textarea onChange={(e) => setDescription(e.target.value)} value={description} placeholder='Describe pets cuteness..'/></div>
                 <div><input type="number" onChange={(e) => setAge(parseInt(e.target.value))} value={`${age || 0}`} placeholder='Pets age' /></div>
